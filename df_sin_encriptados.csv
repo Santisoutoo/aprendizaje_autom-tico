@@ -1,0 +1,549 @@
+campus,sexo,edad,entorno_vivienda,tamano_familia,independizado_padres,educacion_madre,educacion_padre,ocupacion_madre,ocupacion_padre,razon_matricula,interes_educacion_superior,internet_casa,tiempo_viaje,tiempo_estudio,apoyo_escolar,apoyo_familiar,actividades,relacion_romantica,relacion_familiar,tiempo_libre,salir_amigos,consumo_alcohol_entre_semana,consumo_alcohol_fin_de_semana,salud,suspensos,faltas,nota1,nota2,nota3
+A Coruña,V,15.0,urbano,<=3,independizado,4.0,3.0,profesor,servicios,cerca_casa,yes,yes,1.0,3.0,no,yes,yes,no,5.0,4.0,3.0,1.0,1.0,4.0,0.0,0.0,14.0,14.0,14.0
+Vigo,M,18.0,rural,>3,independizado,2.0,2.0,servicios,otro,cerca_casa,si,si,2.0,3.0,no,no,no,si,4.0,2.0,1.0,1.0,1.0,4.0,0.0,5.0,14.0,14.0,15.0
+A Coruña,V,17.0,urbano,>3,independizado,3.0,2.0,servicios,servicios,curso,yes,yes,1.0,1.0,no,yes,yes,no,5.0,5.0,5.0,2.0,4.0,5.0,3.0,2.0,8.0,8.0,7.0
+A Coruña,M,18.0,urbano,>3,independizado,4.0,4.0,salud,salud,reputacion_centro,yes,yes,1.0,2.0,yes,yes,yes,yes,2.0,4.0,4.0,1.0,1.0,4.0,1.0,2.0,14.0,12.0,13.0
+A Coruña,V,19.0,urbano,>3,independizado,4.0,2.0,salud,otro,curso,yes,yes,2.0,2.0,no,yes,yes,yes,5.0,4.0,4.0,1.0,1.0,1.0,0.0,9.0,11.0,10.0,10.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,1.0,servicios,otro,curso,yes,yes,2.0,2.0,no,yes,yes,no,5.0,3.0,3.0,1.0,2.0,1.0,0.0,2.0,12.0,12.0,15.0
+A Coruña,V,20.0,urbano,>3,con_nucleo_fam,3.0,2.0,servicios,otro,curso,si,no,1.0,1.0,no,no,si,no,5.0,5.0,3.0,1.0,1.0,5.0,2.0,0.0,14.0,15.0,15.0
+A Coruña,V,18.0,urbano,<=3,independizado,2.0,1.0,en_casa,otro,curso,1.0,1.0,4.0,2.0,1.0,1.0,1.0,1.0,4.0,3.0,2.0,4.0,5.0,3.0,0.0,2.0,9.0,10.0,11.0
+Vigo,M,17.0,rural,>3,independizado,1.0,1.0,otro,servicios,reputacion_centro,si,si,3.0,1.0,no,si,no,si,5.0,2.0,1.0,1.0,2.0,1.0,1.0,0.0,8.0,8.0,9.0
+A Coruña,M,18.0,rural,<=3,independizado,1.0,1.0,en_casa,otro,reputacion_centro,yes,no,2.0,4.0,no,yes,yes,no,5.0,2.0,2.0,1.0,1.0,3.0,0.0,2.0,17.0,17.0,18.0
+Vigo,M,16.0,rural,<=3,independizado,1.0,2.0,otro,otro,reputacion_centro,1.0,1.0,2.0,1.0,0.0,0.0,1.0,0.0,5.0,4.0,5.0,1.0,4.0,2.0,0.0,0.0,14.0,14.0,15.0
+A Coruña,M,16.0,urbano,<=3,independizado,2.0,2.0,otro,en_casa,curso,1.0,1.0,2.0,2.0,1.0,0.0,1.0,0.0,4.0,3.0,3.0,2.0,2.0,5.0,1.0,14.0,10.0,11.0,11.0
+A Coruña,V,18.0,urbano,<=3,independizado,2.0,1.0,servicios,otro,curso,no,yes,3.0,2.0,no,no,yes,no,4.0,4.0,5.0,4.0,4.0,5.0,1.0,4.0,11.0,10.0,11.0
+A Coruña,M,15.0,urbano,>3,independizado,1.0,1.0,otro,otro,cerca_casa,True,True,1.0,2.0,False,True,True,False,4.0,3.0,2.0,2.0,3.0,4.0,0.0,2.0,13.0,12.0,12.0
+Vigo,M,16.0,rural,>3,independizado,0.0,2.0,otro,otro,otro,yes,no,2.0,1.0,no,yes,yes,no,3.0,2.0,3.0,1.0,2.0,2.0,0.0,0.0,12.0,11.0,12.0
+A Coruña,M,17.0,urbano,>3,independizado,4.0,4.0,profesor,servicios,curso,yes,yes,1.0,2.0,no,yes,no,yes,5.0,3.0,1.0,1.0,4.0,5.0,0.0,2.0,11.0,11.0,12.0
+A Coruña,M,17.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,curso,yes,yes,2.0,3.0,no,yes,no,yes,4.0,3.0,3.0,1.0,2.0,4.0,0.0,4.0,15.0,14.0,15.0
+A Coruña,M,18.0,rural,>3,independizado,2.0,1.0,otro,otro,reputacion_centro,no,yes,2.0,2.0,no,yes,no,yes,4.0,3.0,5.0,1.0,2.0,3.0,0.0,12.0,8.0,9.0,10.0
+Vigo,V,18.0,rural,<=3,independizado,1.0,2.0,en_casa,servicios,otro,0.0,1.0,3.0,1.0,0.0,1.0,1.0,1.0,4.0,3.0,3.0,2.0,3.0,3.0,0.0,3.0,9.0,10.0,10.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,1.0,otro,otro,reputacion_centro,yes,no,1.0,1.0,no,no,yes,no,5.0,3.0,2.0,2.0,2.0,5.0,0.0,0.0,13.0,13.0,14.0
+A Coruña,V,15.0,urbano,<=3,independizado,2.0,2.0,servicios,salud,reputacion_centro,yes,yes,1.0,4.0,no,yes,yes,no,4.0,3.0,4.0,1.0,1.0,4.0,0.0,2.0,11.0,12.0,12.0
+A Coruña,M,18.0,urbano,<=3,independizado,4.0,3.0,otro,otro,cerca_casa,yes,yes,2.0,2.0,no,yes,no,yes,4.0,4.0,5.0,1.0,2.0,2.0,0.0,0.0,13.0,14.0,14.0
+A Coruña,M,15.0,urbano,>3,independizado,4.0,4.0,profesor,servicios,curso,yes,yes,1.0,3.0,no,yes,yes,no,4.0,2.0,2.0,1.0,1.0,5.0,0.0,2.0,13.0,13.0,13.0
+A Coruña,M,15.0,rural,>3,independizado,2.0,4.0,servicios,salud,curso,yes,yes,1.0,3.0,yes,yes,yes,no,4.0,3.0,2.0,1.0,1.0,5.0,0.0,2.0,10.0,11.0,10.0
+A Coruña,V,17.0,rural,<=3,independizado,1.0,1.0,otro,servicios,curso,no,no,4.0,2.0,no,no,yes,yes,5.0,3.0,5.0,1.0,5.0,5.0,0.0,0.0,8.0,8.0,8.0
+Vigo,M,16.0,rural,>3,con_nucleo_fam,2.0,2.0,salud,otro,curso,yes,no,1.0,2.0,no,no,no,yes,3.0,3.0,2.0,1.0,1.0,3.0,0.0,2.0,8.0,10.0,10.0
+Vigo,V,17.0,rural,>3,independizado,2.0,2.0,otro,otro,curso,yes,yes,3.0,1.0,no,yes,no,no,4.0,4.0,5.0,1.0,2.0,5.0,1.0,0.0,10.0,9.0,9.0
+A Coruña,M,17.0,urbano,>3,independizado,4.0,3.0,salud,servicios,reputacion_centro,yes,yes,1.0,3.0,no,yes,no,no,4.0,2.0,2.0,1.0,2.0,3.0,0.0,0.0,17.0,18.0,18.0
+Vigo,M,18.0,rural,>3,independizado,4.0,4.0,salud,profesor,reputacion_centro,yes,yes,1.0,2.0,no,no,yes,yes,4.0,3.0,3.0,2.0,3.0,2.0,0.0,0.0,15.0,18.0,18.0
+Vigo,M,18.0,urbano,>3,independizado,3.0,3.0,servicios,servicios,otro,yes,yes,2.0,2.0,no,yes,no,yes,4.0,3.0,2.0,1.0,3.0,3.0,0.0,6.0,13.0,12.0,13.0
+A Coruña,V,17.0,urbano,>3,independizado,1.0,1.0,otro,otro,reputacion_centro,yes,yes,1.0,2.0,no,no,no,no,4.0,3.0,3.0,1.0,2.0,4.0,0.0,0.0,12.0,12.0,12.0
+A Coruña,V,16.0,rural,>3,independizado,4.0,3.0,servicios,otro,reputacion_centro,yes,yes,2.0,1.0,yes,yes,yes,no,3.0,3.0,3.0,1.0,1.0,4.0,0.0,6.0,9.0,11.0,11.0
+A Coruña,V,16.0,rural,>3,independizado,4.0,2.0,profesor,servicios,otro,yes,yes,1.0,1.0,no,yes,yes,yes,4.0,3.0,3.0,3.0,4.0,3.0,0.0,8.0,10.0,9.0,11.0
+Vigo,V,15.0,urbano,>3,independizado,2.0,2.0,salud,otro,reputacion_centro,si,no,3.0,1.0,no,no,no,no,4.0,3.0,3.0,1.0,2.0,4.0,0.0,1.0,13.0,12.0,13.0
+A Coruña,M,18.0,rural,>3,independizado,4.0,4.0,salud,profesor,otro,yes,no,1.0,2.0,no,yes,yes,no,2.0,4.0,4.0,2.0,3.0,4.0,0.0,0.0,19.0,18.0,18.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,3.0,otro,en_casa,curso,1.0,1.0,1.0,3.0,1.0,1.0,0.0,0.0,5.0,3.0,5.0,1.0,1.0,3.0,0.0,2.0,12.0,13.0,13.0
+A Coruña,M,15.0,urbano,>3,con_nucleo_fam,4.0,3.0,servicios,servicios,reputacion_centro,True,True,1.0,2.0,False,True,True,False,4.0,3.0,2.0,1.0,1.0,1.0,0.0,0.0,15.0,14.0,15.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,4.0,salud,salud,otro,True,True,1.0,1.0,False,True,False,False,5.0,4.0,2.0,1.0,1.0,5.0,0.0,0.0,11.0,12.0,12.0
+A Coruña,V,19.0,urbano,>3,independizado,3.0,2.0,servicios,en_casa,cerca_casa,no,yes,1.0,1.0,no,yes,no,yes,4.0,5.0,4.0,1.0,1.0,4.0,0.0,6.0,11.0,9.0,11.0
+A Coruña,M,16.0,urbano,>3,independizado,1.0,1.0,servicios,servicios,curso,yes,yes,4.0,1.0,yes,yes,yes,yes,5.0,5.0,5.0,5.0,5.0,5.0,0.0,0.0,10.0,10.0,16.0
+Vigo,M,18.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,reputacion_centro,1.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,4.0,3.0,5.0,1.0,2.0,1.0,0.0,0.0,18.0,18.0,18.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,1.0,servicios,servicios,otro,no,yes,1.0,1.0,no,no,no,no,3.0,2.0,5.0,2.0,5.0,5.0,2.0,4.0,7.0,8.0,6.0
+Vigo,M,16.0,rural,>3,independizado,1.0,1.0,en_casa,otro,otro,yes,no,4.0,3.0,yes,yes,no,no,4.0,4.0,3.0,1.0,1.0,5.0,0.0,2.0,10.0,9.0,10.0
+A Coruña,M,17.0,urbano,<=3,independizado,4.0,2.0,profesor,servicios,reputacion_centro,yes,yes,1.0,4.0,no,yes,yes,no,4.0,2.0,3.0,1.0,1.0,4.0,0.0,2.0,14.0,15.0,17.0
+A Coruña,M,16.0,urbano,>3,independizado,2.0,2.0,servicios,otro,reputacion_centro,yes,yes,2.0,2.0,no,no,yes,no,3.0,4.0,4.0,1.0,4.0,5.0,0.0,0.0,13.0,12.0,14.0
+Vigo,V,17.0,rural,>3,independizado,2.0,1.0,otro,otro,otro,no,no,3.0,1.0,no,no,yes,yes,5.0,5.0,5.0,5.0,5.0,3.0,0.0,8.0,8.0,10.0,9.0
+Vigo,M,16.0,rural,>3,independizado,2.0,3.0,otro,servicios,curso,yes,yes,3.0,2.0,no,yes,no,no,4.0,5.0,4.0,1.0,2.0,1.0,0.0,2.0,15.0,15.0,15.0
+A Coruña,V,17.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,curso,yes,yes,1.0,1.0,no,yes,yes,no,4.0,2.0,1.0,1.0,2.0,5.0,0.0,6.0,10.0,8.0,9.0
+Vigo,M,19.0,rural,>3,independizado,2.0,3.0,otro,otro,curso,yes,yes,2.0,1.0,no,yes,no,no,6.0,6.0,6.0,1.0,3.0,3.0,0.0,2.0,11.0,12.0,13.0
+A Coruña,V,18.0,urbano,<=3,independizado,4.0,3.0,profesor,servicios,curso,yes,yes,2.0,1.0,no,no,yes,no,4.0,2.0,3.0,1.0,2.0,1.0,0.0,0.0,10.0,10.0,10.0
+A Coruña,V,21.0,rural,<=3,independizado,1.0,1.0,en_casa,otro,curso,False,True,2.0,2.0,False,True,True,True,5.0,3.0,3.0,5.0,2.0,4.0,2.0,21.0,9.0,10.0,10.0
+A Coruña,V,17.0,urbano,<=3,independizado,4.0,3.0,profesor,otro,curso,True,True,2.0,2.0,False,False,True,False,4.0,4.0,4.0,4.0,4.0,4.0,0.0,0.0,10.0,11.0,11.0
+Vigo,V,18.0,rural,>3,independizado,4.0,4.0,en_casa,servicios,otro,yes,yes,3.0,1.0,no,yes,yes,yes,2.0,5.0,5.0,1.0,1.0,1.0,0.0,5.0,12.0,13.0,14.0
+A Coruña,V,15.0,urbano,<=3,con_nucleo_fam,2.0,1.0,servicios,otro,curso,yes,yes,4.0,1.0,no,no,no,no,4.0,5.0,5.0,2.0,5.0,5.0,0.0,0.0,12.0,11.0,11.0
+Vigo,M,16.0,rural,<=3,independizado,1.0,1.0,en_casa,otro,curso,yes,no,3.0,2.0,no,yes,no,no,5.0,3.0,2.0,1.0,1.0,1.0,0.0,0.0,16.0,17.0,18.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,2.0,en_casa,en_casa,otro,yes,yes,1.0,3.0,no,yes,no,no,4.0,3.0,3.0,1.0,2.0,2.0,0.0,0.0,18.0,18.0,18.0
+Vigo,V,17.0,rural,>3,independizado,1.0,1.0,otro,servicios,curso,True,True,2.0,1.0,False,True,True,True,4.0,5.0,5.0,1.0,3.0,2.0,0.0,0.0,10.0,9.0,10.0
+Vigo,M,20.0,urbano,<=3,independizado,3.0,1.0,profesor,servicios,curso,yes,yes,1.0,2.0,no,yes,no,no,4.0,3.0,4.0,1.0,1.0,1.0,0.0,4.0,16.0,16.0,18.0
+A Coruña,M,18.0,rural,>3,independizado,2.0,2.0,otro,otro,cerca_casa,True,False,1.0,2.0,True,False,False,False,3.0,2.0,3.0,1.0,1.0,5.0,0.0,4.0,11.0,11.0,13.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,1.0,otro,otro,curso,1.0,1.0,2.0,3.0,0.0,1.0,0.0,1.0,4.0,4.0,4.0,1.0,1.0,3.0,0.0,10.0,12.0,10.0,11.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,4.0,servicios,otro,curso,yes,yes,1.0,1.0,no,yes,yes,no,5.0,3.0,3.0,1.0,1.0,5.0,0.0,2.0,12.0,13.0,12.0
+A Coruña,V,17.0,urbano,>3,independizado,4.0,3.0,otro,otro,curso,yes,yes,1.0,2.0,no,yes,yes,yes,5.0,2.0,3.0,1.0,1.0,2.0,0.0,4.0,11.0,11.0,13.0
+A Coruña,V,15.0,urbano,>3,independizado,3.0,4.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,5.0,5.0,1.0,1.0,1.0,5.0,0.0,0.0,12.0,12.0,13.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,1.0,otro,otro,cerca_casa,True,True,1.0,2.0,False,True,False,True,4.0,2.0,5.0,1.0,2.0,1.0,0.0,8.0,14.0,14.0,15.0
+A Coruña,M,18.0,urbano,>3,independizado,1.0,1.0,otro,otro,cerca_casa,yes,yes,2.0,3.0,no,no,yes,no,4.0,5.0,5.0,1.0,2.0,2.0,0.0,0.0,14.0,14.0,14.0
+A Coruña,M,15.0,urbano,>3,con_nucleo_fam,3.0,3.0,otro,salud,reputacion_centro,True,False,1.0,4.0,True,False,False,False,4.0,3.0,3.0,1.0,1.0,4.0,0.0,10.0,10.0,10.0,10.0
+Vigo,M,17.0,rural,>3,independizado,3.0,1.0,en_casa,otro,reputacion_centro,yes,yes,1.0,2.0,no,yes,yes,no,4.0,5.0,4.0,2.0,3.0,1.0,0.0,10.0,8.0,9.0,9.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,2.0,otro,en_casa,curso,no,yes,1.0,1.0,no,yes,yes,yes,4.0,4.0,3.0,2.0,2.0,1.0,1.0,26.0,7.0,8.0,8.0
+A Coruña,V,15.0,urbano,<=3,con_nucleo_fam,4.0,4.0,profesor,profesor,curso,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,5.0,5.0,3.0,1.0,1.0,4.0,0.0,4.0,13.0,14.0,14.0
+Vigo,M,17.0,urbano,>3,independizado,3.0,3.0,servicios,servicios,curso,yes,yes,2.0,1.0,no,yes,no,no,4.0,4.0,3.0,1.0,1.0,4.0,0.0,0.0,11.0,12.0,13.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,salud,otro,curso,yes,yes,1.0,1.0,no,yes,yes,no,3.0,4.0,4.0,1.0,4.0,5.0,0.0,4.0,12.0,13.0,13.0
+A Coruña,V,19.0,urbano,>3,independizado,2.0,1.0,otro,otro,reputacion_centro,yes,yes,1.0,1.0,no,no,no,no,5.0,3.0,4.0,1.0,4.0,4.0,0.0,10.0,7.0,11.0,11.0
+A Coruña,M,17.0,rural,<=3,independizado,1.0,1.0,en_casa,otro,curso,yes,yes,2.0,3.0,no,no,yes,no,4.0,3.0,3.0,1.0,3.0,5.0,0.0,4.0,15.0,14.0,15.0
+A Coruña,M,17.0,rural,>3,independizado,4.0,4.0,profesor,profesor,curso,yes,yes,1.0,1.0,no,no,yes,no,4.0,4.0,4.0,1.0,1.0,5.0,0.0,2.0,15.0,16.0,17.0
+A Coruña,V,17.0,urbano,<=3,con_nucleo_fam,4.0,4.0,salud,otro,reputacion_centro,yes,yes,1.0,3.0,no,yes,no,no,4.0,4.0,2.0,1.0,2.0,4.0,0.0,2.0,12.0,15.0,15.0
+Vigo,V,17.0,urbano,<=3,independizado,4.0,4.0,otro,servicios,cerca_casa,True,True,1.0,3.0,False,True,False,False,4.0,4.0,3.0,1.0,2.0,5.0,0.0,0.0,15.0,14.0,16.0
+Vigo,M,17.0,rural,>3,independizado,1.0,1.0,otro,otro,otro,no,yes,1.0,1.0,no,yes,no,no,5.0,4.0,4.0,2.0,2.0,5.0,1.0,0.0,6.0,6.0,7.0
+A Coruña,V,16.0,urbano,>3,independizado,2.0,3.0,otro,otro,curso,yes,yes,2.0,3.0,no,yes,no,yes,3.0,2.0,3.0,2.0,2.0,1.0,0.0,4.0,13.0,12.0,13.0
+Vigo,V,17.0,urbano,>3,independizado,3.0,3.0,servicios,en_casa,curso,True,False,2.0,4.0,False,True,True,False,5.0,4.0,5.0,3.0,4.0,5.0,1.0,0.0,10.0,11.0,10.0
+A Coruña,M,17.0,urbano,<=3,con_nucleo_fam,3.0,3.0,servicios,otro,cerca_casa,yes,yes,1.0,2.0,yes,yes,no,no,5.0,3.0,3.0,1.0,1.0,5.0,0.0,0.0,12.0,12.0,13.0
+Vigo,V,17.0,rural,>3,independizado,1.0,1.0,otro,servicios,otro,no,no,3.0,1.0,no,no,no,no,4.0,2.0,3.0,3.0,4.0,4.0,0.0,4.0,12.0,13.0,14.0
+A Coruña,M,15.0,rural,>3,independizado,3.0,4.0,servicios,salud,curso,yes,yes,1.0,3.0,yes,yes,yes,no,4.0,3.0,2.0,1.0,1.0,5.0,0.0,2.0,11.0,12.0,12.0
+A Coruña,V,16.0,urbano,>3,independizado,2.0,2.0,servicios,otro,reputacion_centro,1.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,4.0,4.0,2.0,1.0,1.0,3.0,0.0,6.0,12.0,10.0,11.0
+Vigo,M,16.0,rural,>3,independizado,1.0,1.0,en_casa,otro,otro,yes,yes,2.0,1.0,no,no,yes,yes,4.0,2.0,2.0,4.0,3.0,2.0,0.0,0.0,13.0,12.0,14.0
+A Coruña,M,18.0,urbano,>3,independizado,4.0,3.0,otro,otro,reputacion_centro,True,True,1.0,4.0,False,True,False,False,4.0,3.0,3.0,1.0,1.0,3.0,0.0,0.0,16.0,17.0,17.0
+Vigo,M,18.0,urbano,<=3,independizado,1.0,1.0,en_casa,servicios,curso,yes,yes,2.0,3.0,no,no,no,no,5.0,3.0,2.0,1.0,1.0,4.0,0.0,0.0,19.0,17.0,18.0
+A Coruña,V,15.0,urbano,>3,independizado,2.0,3.0,otro,servicios,curso,yes,yes,1.0,1.0,yes,yes,yes,yes,3.0,2.0,2.0,1.0,3.0,3.0,0.0,0.0,11.0,11.0,12.0
+A Coruña,M,17.0,urbano,>3,con_nucleo_fam,4.0,4.0,otro,profesor,cerca_casa,True,False,2.0,2.0,True,True,False,False,4.0,1.0,4.0,1.0,1.0,1.0,0.0,2.0,10.0,13.0,13.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,4.0,profesor,salud,reputacion_centro,yes,no,1.0,2.0,no,yes,yes,no,3.0,2.0,2.0,1.0,1.0,5.0,0.0,8.0,15.0,15.0,16.0
+A Coruña,V,17.0,rural,<=3,independizado,1.0,2.0,otro,otro,reputacion_centro,si,no,1.0,1.0,no,no,no,no,2.0,2.0,2.0,3.0,3.0,5.0,3.0,14.0,9.0,8.0,10.0
+A Coruña,M,20.0,urbano,>3,independizado,1.0,0.0,otro,otro,reputacion_centro,yes,yes,2.0,1.0,yes,no,no,yes,5.0,3.0,1.0,1.0,1.0,5.0,1.0,5.0,8.0,10.0,10.0
+Vigo,V,18.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,cerca_casa,yes,yes,1.0,2.0,no,no,yes,no,3.0,2.0,4.0,1.0,4.0,2.0,0.0,4.0,17.0,18.0,19.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,3.0,en_casa,otro,cerca_casa,yes,no,2.0,1.0,no,yes,no,no,3.0,3.0,3.0,1.0,4.0,3.0,0.0,4.0,12.0,13.0,13.0
+Vigo,V,15.0,urbano,<=3,con_nucleo_fam,2.0,2.0,otro,otro,reputacion_centro,yes,no,3.0,4.0,no,yes,yes,no,5.0,4.0,5.0,2.0,3.0,5.0,0.0,8.0,13.0,14.0,14.0
+A Coruña,V,16.0,urbano,<=3,con_nucleo_fam,3.0,4.0,servicios,otro,cerca_casa,True,True,1.0,2.0,True,True,True,False,5.0,3.0,3.0,1.0,1.0,5.0,0.0,2.0,12.0,12.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,3.0,salud,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,4.0,3.0,5.0,1.0,5.0,2.0,0.0,2.0,14.0,14.0,15.0
+A Coruña,V,18.0,urbano,>3,independizado,4.0,4.0,profesor,servicios,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,4.0,3.0,3.0,2.0,2.0,2.0,0.0,0.0,12.0,12.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,2.0,3.0,otro,otro,reputacion_centro,yes,no,1.0,2.0,yes,yes,yes,no,4.0,4.0,3.0,1.0,3.0,4.0,0.0,4.0,11.0,12.0,12.0
+Vigo,V,15.0,rural,<=3,independizado,1.0,3.0,en_casa,otro,reputacion_centro,yes,yes,3.0,1.0,no,yes,yes,no,4.0,2.0,4.0,3.0,5.0,3.0,0.0,2.0,10.0,11.0,11.0
+A Coruña,M,15.0,rural,<=3,independizado,3.0,1.0,otro,otro,reputacion_centro,yes,yes,2.0,4.0,no,yes,no,no,4.0,4.0,2.0,2.0,3.0,3.0,0.0,6.0,15.0,15.0,15.0
+A Coruña,V,17.0,urbano,>3,independizado,2.0,1.0,otro,otro,cerca_casa,no,si,2.0,1.0,si,si,si,no,4.0,5.0,1.0,1.0,1.0,3.0,3.0,0.0,9.0,9.0,10.0
+A Coruña,V,16.0,urbano,<=3,independizado,4.0,2.0,profesor,otro,curso,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.0,4.0,5.0,1.0,1.0,3.0,5.0,0.0,0.0,12.0,13.0,14.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,4.0,servicios,servicios,reputacion_centro,yes,yes,1.0,3.0,no,yes,yes,no,3.0,2.0,3.0,1.0,2.0,2.0,0.0,10.0,13.0,13.0,14.0
+A Coruña,M,16.0,urbano,<=3,independizado,2.0,2.0,servicios,servicios,curso,yes,yes,3.0,2.0,no,yes,no,no,4.0,3.0,3.0,2.0,3.0,4.0,0.0,0.0,14.0,13.0,13.0
+A Coruña,M,17.0,urbano,<=3,independizado,3.0,3.0,otro,otro,reputacion_centro,yes,yes,1.0,2.0,no,yes,yes,yes,5.0,3.0,3.0,2.0,3.0,1.0,0.0,32.0,14.0,13.0,14.0
+A Coruña,M,15.0,urbano,>3,independizado,2.0,3.0,otro,otro,otro,True,False,2.0,1.0,False,True,True,False,3.0,5.0,1.0,1.0,1.0,5.0,0.0,4.0,11.0,11.0,11.0
+Vigo,M,16.0,urbano,>3,independizado,1.0,2.0,otro,servicios,curso,yes,no,1.0,3.0,no,yes,no,no,1.0,3.0,2.0,1.0,2.0,4.0,1.0,0.0,10.0,8.0,8.0
+Vigo,M,16.0,urbano,>3,independizado,1.0,3.0,en_casa,otro,otro,no,yes,2.0,1.0,no,yes,no,yes,4.0,3.0,3.0,1.0,3.0,5.0,0.0,11.0,10.0,11.0,11.0
+A Coruña,V,18.0,rural,<=3,independizado,3.0,3.0,otro,servicios,curso,True,True,1.0,2.0,False,True,False,True,4.0,3.0,3.0,1.0,3.0,5.0,0.0,8.0,10.0,9.0,10.0
+A Coruña,V,17.0,urbano,>3,independizado,3.0,3.0,otro,servicios,reputacion_centro,True,True,1.0,1.0,False,False,True,False,4.0,3.0,5.0,3.0,5.0,5.0,0.0,0.0,17.0,18.0,17.0
+A Coruña,M,17.0,urbano,>3,con_nucleo_fam,4.0,3.0,servicios,servicios,curso,yes,yes,1.0,2.0,no,yes,no,yes,5.0,2.0,2.0,1.0,2.0,5.0,0.0,14.0,15.0,14.0,17.0
+A Coruña,V,19.0,urbano,<=3,con_nucleo_fam,4.0,3.0,servicios,en_casa,reputacion_centro,yes,yes,1.0,2.0,no,yes,no,no,4.0,3.0,1.0,1.0,1.0,1.0,0.0,4.0,11.0,13.0,14.0
+Vigo,M,17.0,rural,>3,independizado,0.0,0.0,en_casa,otro,curso,yes,yes,2.0,1.0,no,yes,no,no,4.0,4.0,3.0,1.0,1.0,5.0,0.0,0.0,10.0,11.0,11.0
+A Coruña,M,16.0,urbano,<=3,con_nucleo_fam,3.0,3.0,otro,servicios,cerca_casa,yes,yes,1.0,2.0,no,yes,no,no,2.0,3.0,5.0,1.0,4.0,3.0,0.0,6.0,13.0,12.0,13.0
+A Coruña,M,17.0,urbano,>3,independizado,1.0,1.0,en_casa,servicios,curso,yes,yes,1.0,2.0,no,no,yes,no,5.0,3.0,3.0,1.0,1.0,3.0,0.0,0.0,12.0,11.0,12.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,3.0,profesor,servicios,curso,yes,yes,2.0,4.0,yes,yes,no,no,2.0,2.0,2.0,1.0,1.0,3.0,0.0,6.0,9.0,11.0,11.0
+A Coruña,M,17.0,urbano,>3,independizado,1.0,1.0,en_casa,otro,curso,yes,yes,1.0,2.0,no,yes,no,no,5.0,3.0,3.0,1.0,1.0,3.0,0.0,2.0,9.0,11.0,11.0
+A Coruña,M,18.0,urbano,>3,independizado,4.0,3.0,servicios,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,no,yes,3.0,1.0,2.0,1.0,3.0,2.0,0.0,2.0,15.0,15.0,15.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,3.0,otro,servicios,cerca_casa,si,si,2.0,1.0,no,no,si,no,5.0,4.0,2.0,1.0,1.0,5.0,0.0,6.0,14.0,14.0,15.0
+A Coruña,M,17.0,rural,>3,independizado,2.0,2.0,otro,otro,reputacion_centro,True,True,1.0,1.0,False,True,False,False,5.0,3.0,2.0,1.0,2.0,3.0,0.0,21.0,13.0,13.0,13.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,2.0,otro,otro,cerca_casa,True,True,1.0,2.0,False,True,False,True,4.0,3.0,2.0,2.0,3.0,2.0,0.0,0.0,12.0,13.0,15.0
+A Coruña,V,17.0,rural,>3,independizado,2.0,2.0,servicios,otro,curso,yes,yes,4.0,1.0,no,yes,no,no,4.0,4.0,5.0,5.0,5.0,4.0,0.0,2.0,11.0,10.0,10.0
+A Coruña,V,15.0,urbano,>3,independizado,2.0,2.0,servicios,servicios,cerca_casa,1.0,1.0,1.0,4.0,0.0,1.0,1.0,0.0,5.0,5.0,4.0,1.0,2.0,5.0,0.0,6.0,14.0,13.0,13.0
+A Coruña,M,18.0,rural,>3,con_nucleo_fam,3.0,2.0,otro,servicios,cerca_casa,no,yes,2.0,2.0,no,no,no,yes,4.0,1.0,1.0,1.0,1.0,5.0,0.0,15.0,12.0,9.0,10.0
+A Coruña,M,19.0,urbano,>3,independizado,1.0,1.0,otro,otro,curso,no,no,3.0,3.0,no,no,yes,yes,1.0,5.0,5.0,4.0,3.0,5.0,0.0,12.0,10.0,10.0,11.0
+A Coruña,M,17.0,rural,>3,independizado,2.0,4.0,en_casa,otro,curso,yes,yes,1.0,3.0,no,yes,no,yes,4.0,4.0,3.0,1.0,1.0,5.0,0.0,0.0,15.0,15.0,15.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,2.0,otro,otro,reputacion_centro,yes,yes,1.0,1.0,no,no,no,no,5.0,4.0,2.0,1.0,2.0,5.0,0.0,6.0,15.0,14.0,15.0
+Vigo,M,16.0,urbano,>3,independizado,1.0,2.0,otro,servicios,curso,yes,no,1.0,3.0,no,yes,no,no,1.0,3.0,2.0,1.0,2.0,4.0,1.0,3.0,9.0,8.0,8.0
+Vigo,M,17.0,urbano,>3,independizado,2.0,2.0,otro,en_casa,curso,no,no,1.0,1.0,no,yes,yes,no,4.0,5.0,3.0,1.0,1.0,5.0,0.0,4.0,9.0,9.0,10.0
+A Coruña,M,15.0,urbano,<=3,independizado,4.0,3.0,servicios,servicios,reputacion_centro,yes,yes,1.0,2.0,yes,no,yes,yes,4.0,4.0,4.0,2.0,4.0,2.0,0.0,0.0,13.0,12.0,12.0
+Vigo,V,19.0,urbano,<=3,independizado,4.0,4.0,otro,servicios,cerca_casa,True,True,1.0,3.0,False,True,False,False,4.0,4.0,3.0,1.0,2.0,6.0,0.0,0.0,16.0,15.0,18.0
+A Coruña,M,16.0,urbano,<=3,independizado,1.0,2.0,otro,servicios,reputacion_centro,yes,yes,1.0,2.0,yes,no,yes,no,4.0,4.0,3.0,1.0,1.0,1.0,0.0,0.0,13.0,13.0,10.0
+A Coruña,M,18.0,urbano,<=3,con_nucleo_fam,2.0,2.0,servicios,otro,reputacion_centro,True,True,2.0,2.0,False,True,False,False,4.0,1.0,4.0,1.0,3.0,4.0,0.0,10.0,14.0,17.0,17.0
+A Coruña,M,16.0,urbano,>3,con_nucleo_fam,2.0,2.0,otro,otro,cerca_casa,yes,no,1.0,1.0,no,no,no,no,5.0,3.0,4.0,1.0,1.0,5.0,1.0,12.0,13.0,11.0,11.0
+A Coruña,V,18.0,urbano,<=3,con_nucleo_fam,3.0,4.0,otro,otro,reputacion_centro,yes,yes,1.0,2.0,no,no,yes,yes,4.0,3.0,5.0,1.0,4.0,2.0,0.0,9.0,13.0,14.0,15.0
+Vigo,M,18.0,urbano,>3,independizado,1.0,1.0,en_casa,servicios,curso,no,no,3.0,2.0,no,no,no,no,4.0,4.0,2.0,1.0,2.0,2.0,1.0,2.0,9.0,10.0,10.0
+Vigo,M,17.0,urbano,<=3,independizado,1.0,2.0,en_casa,otro,curso,yes,yes,1.0,1.0,no,no,no,no,5.0,5.0,1.0,1.0,1.0,3.0,0.0,0.0,7.0,10.0,10.0
+Vigo,M,15.0,rural,>3,independizado,1.0,1.0,en_casa,otro,cerca_casa,yes,yes,2.0,2.0,no,yes,yes,no,4.0,3.0,3.0,1.0,1.0,2.0,0.0,1.0,11.0,10.0,11.0
+A Coruña,M,18.0,urbano,>3,con_nucleo_fam,3.0,1.0,servicios,otro,curso,1.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,2.0,3.0,3.0,2.0,2.0,4.0,0.0,2.0,12.0,12.0,13.0
+Vigo,M,18.0,rural,<=3,independizado,4.0,4.0,otro,otro,reputacion_centro,True,True,2.0,3.0,False,False,False,False,5.0,4.0,4.0,1.0,1.0,1.0,0.0,0.0,15.0,17.0,17.0
+A Coruña,M,17.0,urbano,<=3,independizado,2.0,2.0,servicios,otro,curso,yes,yes,2.0,2.0,yes,yes,no,yes,4.0,4.0,4.0,2.0,3.0,5.0,0.0,6.0,12.0,12.0,12.0
+A Coruña,V,18.0,urbano,>3,independizado,4.0,4.0,otro,otro,curso,si,si,1.0,3.0,no,no,si,no,4.0,3.0,3.0,2.0,2.0,3.0,0.0,0.0,13.0,14.0,13.0
+A Coruña,M,18.0,rural,>3,independizado,2.0,2.0,en_casa,otro,curso,si,no,2.0,4.0,no,no,si,no,4.0,4.0,4.0,1.0,1.0,4.0,0.0,6.0,14.0,13.0,14.0
+Vigo,M,17.0,urbano,>3,independizado,2.0,2.0,otro,en_casa,cerca_casa,yes,no,1.0,3.0,no,no,yes,yes,3.0,4.0,3.0,1.0,1.0,3.0,0.0,8.0,10.0,11.0,12.0
+Vigo,M,18.0,rural,<=3,independizado,4.0,4.0,profesor,servicios,curso,yes,yes,1.0,2.0,no,no,yes,no,5.0,4.0,3.0,3.0,4.0,2.0,0.0,1.0,13.0,14.0,14.0
+A Coruña,V,17.0,urbano,>3,independizado,3.0,2.0,servicios,servicios,curso,no,no,2.0,1.0,no,yes,yes,no,4.0,5.0,2.0,1.0,1.0,2.0,3.0,10.0,8.0,7.0,8.0
+Vigo,M,18.0,rural,>3,independizado,1.0,1.0,en_casa,otro,otro,yes,yes,1.0,2.0,no,yes,no,yes,4.0,3.0,2.0,1.0,1.0,5.0,1.0,9.0,7.0,7.0,7.0
+Vigo,V,17.0,urbano,>3,independizado,3.0,2.0,otro,otro,otro,yes,yes,2.0,2.0,no,yes,no,no,4.0,1.0,2.0,2.0,2.0,1.0,0.0,0.0,13.0,14.0,13.0
+Vigo,M,18.0,rural,>3,con_nucleo_fam,4.0,3.0,servicios,servicios,curso,yes,yes,1.0,1.0,no,yes,no,no,5.0,4.0,4.0,3.0,4.0,2.0,0.0,8.0,10.0,11.0,10.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,1.0,servicios,otro,reputacion_centro,no,yes,1.0,2.0,no,yes,yes,yes,5.0,4.0,5.0,1.0,3.0,5.0,3.0,10.0,10.0,9.0,8.0
+Vigo,M,15.0,urbano,>3,independizado,2.0,2.0,otro,servicios,curso,yes,no,2.0,3.0,no,yes,yes,no,5.0,3.0,2.0,1.0,1.0,4.0,0.0,0.0,12.0,13.0,14.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,0.0,profesor,otro,curso,yes,yes,2.0,4.0,no,no,yes,no,3.0,4.0,3.0,1.0,1.0,1.0,0.0,0.0,12.0,11.0,11.0
+A Coruña,V,17.0,rural,>3,independizado,1.0,2.0,en_casa,en_casa,cerca_casa,yes,no,1.0,2.0,no,yes,yes,yes,3.0,5.0,2.0,2.0,2.0,1.0,0.0,2.0,16.0,17.0,18.0
+A Coruña,M,16.0,urbano,>3,independizado,3.0,4.0,en_casa,otro,curso,yes,yes,1.0,2.0,no,yes,no,no,2.0,4.0,3.0,1.0,2.0,3.0,0.0,14.0,12.0,11.0,11.0
+A Coruña,M,16.0,rural,>3,independizado,1.0,1.0,otro,servicios,reputacion_centro,yes,no,2.0,1.0,no,yes,yes,yes,3.0,3.0,3.0,1.0,2.0,1.0,0.0,8.0,12.0,11.0,11.0
+A Coruña,V,17.0,urbano,<=3,con_nucleo_fam,3.0,2.0,profesor,servicios,cerca_casa,yes,yes,1.0,1.0,no,no,no,no,4.0,4.0,4.0,3.0,4.0,3.0,0.0,18.0,13.0,13.0,13.0
+A Coruña,V,16.0,rural,>3,independizado,3.0,3.0,servicios,servicios,reputacion_centro,yes,yes,1.0,1.0,no,yes,yes,no,4.0,3.0,2.0,3.0,4.0,5.0,0.0,0.0,11.0,10.0,10.0
+A Coruña,M,15.0,rural,>3,independizado,1.0,1.0,otro,otro,curso,yes,yes,3.0,1.0,no,no,yes,yes,5.0,5.0,5.0,1.0,1.0,1.0,1.0,2.0,8.0,9.0,9.0
+Vigo,M,16.0,rural,>3,independizado,2.0,2.0,otro,otro,curso,yes,yes,3.0,2.0,no,yes,no,no,4.0,4.0,5.0,1.0,1.0,4.0,0.0,4.0,9.0,10.0,11.0
+A Coruña,V,15.0,urbano,>3,independizado,2.0,3.0,otro,otro,cerca_casa,yes,yes,1.0,3.0,yes,no,no,no,5.0,3.0,2.0,1.0,2.0,5.0,0.0,2.0,10.0,9.0,9.0
+A Coruña,M,15.0,rural,>3,independizado,2.0,2.0,en_casa,otro,reputacion_centro,si,no,1.0,1.0,si,si,si,no,4.0,3.0,1.0,1.0,1.0,2.0,0.0,8.0,14.0,13.0,12.0
+A Coruña,M,15.0,urbano,>3,con_nucleo_fam,3.0,3.0,servicios,servicios,cerca_casa,yes,no,1.0,2.0,no,no,no,yes,1.0,3.0,2.0,2.0,3.0,1.0,0.0,24.0,9.0,8.0,9.0
+A Coruña,M,18.0,urbano,<=3,independizado,1.0,1.0,otro,otro,cerca_casa,yes,no,2.0,2.0,no,yes,no,no,4.0,4.0,3.0,1.0,1.0,3.0,0.0,2.0,13.0,13.0,13.0
+A Coruña,M,15.0,urbano,<=3,con_nucleo_fam,3.0,4.0,otro,otro,cerca_casa,True,True,1.0,2.0,True,False,True,True,5.0,3.0,2.0,1.0,1.0,1.0,0.0,0.0,10.0,11.0,11.0
+A Coruña,M,19.0,urbano,>3,independizado,4.0,4.0,profesor,otro,cerca_casa,yes,yes,1.0,1.0,no,yes,no,yes,3.0,2.0,5.0,4.0,4.0,5.0,1.0,5.0,9.0,10.0,11.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,2.0,en_casa,otro,reputacion_centro,yes,yes,2.0,3.0,no,no,yes,yes,5.0,3.0,3.0,1.0,3.0,2.0,0.0,0.0,12.0,12.0,12.0
+Vigo,M,18.0,rural,>3,independizado,4.0,4.0,profesor,en_casa,reputacion_centro,yes,yes,3.0,1.0,no,yes,yes,yes,4.0,4.0,3.0,2.0,2.0,5.0,0.0,4.0,7.0,9.0,10.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,4.0,otro,otro,curso,yes,yes,3.0,1.0,no,yes,yes,no,3.0,4.0,5.0,2.0,4.0,2.0,1.0,4.0,9.0,9.0,10.0
+Vigo,V,17.0,rural,>3,independizado,4.0,3.0,servicios,otro,cerca_casa,yes,yes,2.0,2.0,no,yes,yes,yes,4.0,5.0,5.0,1.0,3.0,2.0,1.0,4.0,10.0,11.0,11.0
+A Coruña,M,19.0,rural,>3,independizado,3.0,2.0,servicios,servicios,reputacion_centro,False,True,1.0,2.0,True,True,False,False,3.0,3.0,3.0,4.0,3.0,3.0,1.0,0.0,9.0,8.0,10.0
+A Coruña,M,17.0,urbano,<=3,con_nucleo_fam,2.0,2.0,otro,otro,cerca_casa,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,3.0,1.0,2.0,1.0,1.0,1.0,1.0,8.0,11.0,9.0,10.0
+A Coruña,M,15.0,urbano,>3,independizado,4.0,4.0,profesor,salud,reputacion_centro,yes,yes,1.0,2.0,no,yes,no,no,3.0,3.0,3.0,1.0,2.0,2.0,0.0,2.0,14.0,14.0,14.0
+Vigo,V,16.0,rural,>3,independizado,2.0,2.0,servicios,servicios,curso,yes,yes,2.0,1.0,no,yes,yes,yes,5.0,4.0,3.0,2.0,4.0,4.0,0.0,6.0,7.0,8.0,8.0
+Vigo,M,16.0,rural,>3,independizado,2.0,2.0,otro,otro,curso,False,True,3.0,2.0,False,True,False,False,3.0,4.0,5.0,1.0,2.0,1.0,0.0,1.0,9.0,10.0,11.0
+Vigo,M,20.0,urbano,>3,independizado,3.0,3.0,en_casa,servicios,otro,1.0,1.0,2.0,2.0,0.0,0.0,1.0,1.0,3.0,3.0,4.0,2.0,4.0,3.0,1.0,8.0,11.0,9.0,10.0
+A Coruña,V,17.0,urbano,<=3,independizado,4.0,4.0,otro,profesor,cerca_casa,yes,yes,2.0,1.0,no,no,no,no,4.0,1.0,1.0,2.0,2.0,5.0,0.0,0.0,12.0,13.0,13.0
+Vigo,M,15.0,rural,>3,independizado,4.0,4.0,profesor,otro,curso,yes,yes,2.0,1.0,no,no,no,yes,1.0,5.0,1.0,3.0,5.0,5.0,0.0,0.0,13.0,14.0,14.0
+A Coruña,M,18.0,rural,>3,independizado,1.0,1.0,en_casa,otro,curso,yes,no,3.0,1.0,no,yes,yes,no,5.0,2.0,5.0,1.0,5.0,4.0,3.0,6.0,11.0,10.0,11.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,4.0,en_casa,servicios,cerca_casa,yes,yes,1.0,3.0,no,yes,no,yes,4.0,4.0,3.0,3.0,4.0,5.0,1.0,14.0,8.0,9.0,8.0
+A Coruña,V,18.0,urbano,>3,independizado,4.0,3.0,profesor,otro,curso,yes,yes,1.0,3.0,no,yes,no,yes,5.0,4.0,5.0,2.0,3.0,5.0,0.0,0.0,14.0,13.0,14.0
+A Coruña,V,16.0,urbano,<=3,independizado,2.0,1.0,en_casa,otro,curso,yes,no,1.0,1.0,no,no,yes,yes,4.0,4.0,4.0,3.0,5.0,5.0,1.0,6.0,9.0,10.0,10.0
+A Coruña,M,16.0,urbano,>3,independizado,3.0,2.0,otro,otro,reputacion_centro,1.0,1.0,1.0,2.0,0.0,1.0,0.0,0.0,1.0,2.0,2.0,1.0,2.0,1.0,0.0,8.0,14.0,15.0,16.0
+Vigo,V,16.0,rural,>3,independizado,3.0,2.0,servicios,otro,curso,yes,yes,2.0,1.0,no,no,no,no,4.0,5.0,5.0,2.0,3.0,5.0,0.0,2.0,11.0,9.0,10.0
+A Coruña,M,16.0,rural,>3,independizado,3.0,3.0,servicios,otro,reputacion_centro,yes,yes,1.0,3.0,yes,yes,yes,no,4.0,1.0,2.0,1.0,1.0,2.0,0.0,4.0,11.0,11.0,11.0
+A Coruña,M,15.0,urbano,>3,independizado,1.0,2.0,en_casa,servicios,curso,yes,no,1.0,2.0,no,no,no,yes,2.0,3.0,4.0,2.0,4.0,1.0,0.0,6.0,11.0,11.0,11.0
+A Coruña,V,15.0,urbano,>3,independizado,2.0,2.0,otro,otro,cerca_casa,si,si,1.0,1.0,no,si,no,no,4.0,2.0,2.0,1.0,2.0,5.0,0.0,8.0,11.0,12.0,12.0
+A Coruña,M,16.0,urbano,<=3,independizado,2.0,4.0,otro,salud,curso,yes,yes,2.0,2.0,no,yes,yes,yes,4.0,2.0,2.0,1.0,2.0,5.0,0.0,2.0,14.0,12.0,13.0
+A Coruña,V,16.0,urbano,>3,independizado,2.0,1.0,otro,otro,curso,yes,yes,3.0,1.0,no,no,no,no,4.0,3.0,3.0,1.0,1.0,4.0,0.0,7.0,15.0,16.0,16.0
+Vigo,V,17.0,urbano,>3,independizado,2.0,3.0,otro,servicios,cerca_casa,1.0,1.0,2.0,2.0,0.0,0.0,1.0,0.0,4.0,4.0,3.0,1.0,1.0,3.0,0.0,4.0,14.0,15.0,16.0
+Vigo,M,17.0,urbano,<=3,independizado,4.0,4.0,en_casa,en_casa,curso,yes,yes,1.0,2.0,no,yes,yes,yes,2.0,3.0,4.0,1.0,1.0,1.0,0.0,4.0,15.0,14.0,15.0
+A Coruña,V,17.0,urbano,>3,independizado,3.0,3.0,servicios,servicios,otro,yes,yes,1.0,2.0,no,yes,yes,yes,4.0,3.0,4.0,2.0,3.0,4.0,0.0,6.0,11.0,13.0,14.0
+Vigo,M,16.0,urbano,>3,independizado,2.0,2.0,otro,servicios,curso,yes,yes,1.0,1.0,no,yes,yes,no,4.0,4.0,3.0,1.0,4.0,3.0,1.0,1.0,9.0,10.0,10.0
+Vigo,M,18.0,urbano,>3,independizado,2.0,3.0,en_casa,servicios,curso,yes,yes,2.0,1.0,no,yes,no,yes,5.0,2.0,3.0,1.0,2.0,4.0,0.0,0.0,10.0,10.0,10.0
+A Coruña,V,17.0,urbano,>3,independizado,4.0,4.0,servicios,profesor,cerca_casa,True,True,1.0,1.0,False,False,False,False,5.0,2.0,3.0,1.0,2.0,5.0,0.0,4.0,13.0,13.0,14.0
+A Coruña,M,16.0,urbano,>3,independizado,1.0,2.0,otro,otro,curso,no,si,1.0,1.0,no,no,no,no,5.0,3.0,5.0,1.0,2.0,5.0,0.0,4.0,12.0,11.0,11.0
+A Coruña,M,19.0,urbano,>3,independizado,3.0,3.0,otro,servicios,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,4.0,3.0,5.0,3.0,3.0,5.0,0.0,16.0,11.0,12.0,12.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,2.0,otro,otro,curso,True,True,1.0,2.0,False,True,False,False,5.0,4.0,5.0,1.0,2.0,5.0,0.0,12.0,12.0,12.0,14.0
+A Coruña,M,17.0,urbano,>3,con_nucleo_fam,2.0,2.0,en_casa,en_casa,cerca_casa,yes,yes,1.0,2.0,no,yes,no,yes,3.0,3.0,1.0,1.0,2.0,4.0,0.0,18.0,10.0,12.0,14.0
+Vigo,M,16.0,urbano,<=3,independizado,1.0,1.0,en_casa,otro,otro,si,si,3.0,2.0,no,si,no,no,4.0,3.0,2.0,1.0,3.0,5.0,0.0,6.0,6.0,8.0,8.0
+A Coruña,M,17.0,rural,>3,independizado,4.0,3.0,profesor,otro,reputacion_centro,yes,yes,2.0,3.0,no,yes,yes,yes,4.0,4.0,2.0,1.0,1.0,4.0,0.0,0.0,11.0,12.0,12.0
+Vigo,M,16.0,rural,<=3,independizado,2.0,2.0,otro,otro,cerca_casa,yes,no,3.0,1.0,no,yes,yes,yes,4.0,3.0,2.0,1.0,1.0,4.0,0.0,0.0,14.0,14.0,16.0
+Vigo,V,19.0,urbano,>3,independizado,2.0,1.0,en_casa,otro,curso,no,yes,2.0,1.0,no,no,yes,yes,4.0,4.0,3.0,1.0,3.0,5.0,3.0,4.0,8.0,9.0,9.0
+A Coruña,M,15.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,curso,True,True,2.0,1.0,False,False,True,False,4.0,3.0,2.0,1.0,1.0,5.0,0.0,6.0,13.0,14.0,14.0
+A Coruña,V,16.0,urbano,<=3,independizado,2.0,2.0,otro,otro,reputacion_centro,yes,yes,2.0,2.0,no,yes,yes,no,5.0,4.0,4.0,2.0,4.0,5.0,0.0,2.0,10.0,10.0,10.0
+Vigo,M,17.0,urbano,<=3,con_nucleo_fam,3.0,2.0,servicios,otro,reputacion_centro,yes,no,2.0,2.0,no,no,no,yes,1.0,2.0,3.0,1.0,2.0,5.0,0.0,0.0,15.0,14.0,15.0
+Vigo,M,17.0,urbano,>3,con_nucleo_fam,1.0,0.0,otro,otro,otro,True,True,2.0,2.0,False,False,False,True,4.0,4.0,5.0,1.0,1.0,4.0,0.0,1.0,11.0,9.0,10.0
+A Coruña,M,15.0,urbano,>3,independizado,2.0,2.0,otro,otro,curso,yes,yes,1.0,4.0,yes,yes,no,no,5.0,1.0,2.0,1.0,1.0,3.0,0.0,4.0,10.0,10.0,10.0
+A Coruña,M,16.0,rural,>3,independizado,4.0,4.0,salud,profesor,otro,yes,no,1.0,2.0,no,yes,yes,no,2.0,4.0,4.0,2.0,3.0,4.0,0.0,0.0,17.0,16.0,16.0
+A Coruña,M,17.0,urbano,>3,independizado,1.0,1.0,otro,servicios,curso,yes,no,1.0,2.0,no,yes,no,no,4.0,3.0,4.0,1.0,2.0,5.0,0.0,4.0,11.0,10.0,11.0
+Vigo,V,16.0,rural,<=3,independizado,4.0,1.0,otro,en_casa,otro,yes,yes,1.0,1.0,no,no,no,no,4.0,1.0,2.0,2.0,1.0,2.0,0.0,0.0,10.0,11.0,11.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,2.0,salud,servicios,otro,yes,yes,1.0,1.0,no,no,no,no,2.0,2.0,4.0,2.0,4.0,1.0,0.0,0.0,11.0,11.0,11.0
+Vigo,M,17.0,rural,>3,independizado,4.0,4.0,profesor,servicios,otro,yes,yes,2.0,2.0,no,yes,yes,no,4.0,3.0,3.0,1.0,2.0,5.0,0.0,2.0,12.0,12.0,12.0
+A Coruña,V,20.0,urbano,>3,independizado,4.0,4.0,profesor,servicios,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,4.0,3.0,3.0,2.0,2.0,2.0,0.0,0.0,13.0,13.0,14.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,2.0,profesor,otro,cerca_casa,yes,no,1.0,2.0,no,yes,no,no,4.0,3.0,3.0,2.0,2.0,5.0,0.0,4.0,11.0,12.0,13.0
+A Coruña,M,17.0,urbano,>3,independizado,4.0,4.0,otro,profesor,curso,yes,no,1.0,1.0,yes,yes,no,yes,4.0,2.0,1.0,1.0,1.0,4.0,0.0,0.0,13.0,13.0,13.0
+Vigo,V,18.0,urbano,<=3,independizado,1.0,2.0,en_casa,servicios,cerca_casa,si,no,2.0,1.0,no,si,no,no,4.0,1.0,4.0,5.0,5.0,1.0,0.0,8.0,10.0,11.0,11.0
+A Coruña,V,15.0,urbano,<=3,con_nucleo_fam,4.0,2.0,salud,salud,otro,si,no,2.0,1.0,no,no,no,no,5.0,5.0,5.0,3.0,4.0,5.0,0.0,4.0,10.0,9.0,9.0
+Vigo,M,17.0,rural,>3,independizado,1.0,1.0,en_casa,en_casa,curso,no,yes,2.0,1.0,no,yes,yes,yes,3.0,5.0,5.0,2.0,2.0,4.0,0.0,3.0,10.0,11.0,10.0
+Vigo,V,16.0,rural,<=3,independizado,1.0,3.0,en_casa,otro,reputacion_centro,yes,yes,3.0,1.0,no,yes,yes,no,4.0,2.0,4.0,3.0,6.0,3.0,0.0,2.0,11.0,12.0,12.0
+A Coruña,M,16.0,urbano,<=3,independizado,2.0,2.0,otro,otro,cerca_casa,yes,yes,2.0,2.0,no,yes,yes,yes,3.0,3.0,3.0,1.0,2.0,3.0,0.0,16.0,11.0,11.0,10.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,3.0,salud,servicios,reputacion_centro,yes,yes,1.0,4.0,no,no,yes,no,4.0,2.0,2.0,1.0,1.0,2.0,0.0,2.0,17.0,17.0,17.0
+A Coruña,V,16.0,urbano,<=3,independizado,2.0,2.0,servicios,servicios,reputacion_centro,yes,yes,2.0,1.0,no,yes,yes,no,2.0,3.0,3.0,2.0,2.0,2.0,0.0,4.0,12.0,11.0,11.0
+Vigo,M,17.0,urbano,>3,independizado,1.0,1.0,otro,en_casa,curso,yes,no,1.0,1.0,no,yes,yes,no,4.0,3.0,2.0,1.0,2.0,5.0,0.0,9.0,7.0,9.0,10.0
+A Coruña,V,15.0,urbano,<=3,independizado,2.0,2.0,servicios,servicios,cerca_casa,yes,yes,2.0,2.0,no,no,yes,no,5.0,3.0,3.0,1.0,3.0,4.0,0.0,2.0,13.0,12.0,13.0
+A Coruña,M,15.0,urbano,<=3,con_nucleo_fam,4.0,3.0,otro,otro,curso,yes,yes,1.0,2.0,yes,yes,yes,yes,5.0,2.0,2.0,1.0,1.0,5.0,0.0,4.0,10.0,11.0,11.0
+A Coruña,M,15.0,urbano,>3,independizado,3.0,2.0,salud,servicios,cerca_casa,yes,yes,1.0,2.0,no,yes,no,no,3.0,3.0,2.0,1.0,1.0,3.0,1.0,2.0,11.0,11.0,11.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,servicios,servicios,curso,yes,yes,1.0,3.0,no,yes,yes,no,5.0,3.0,3.0,1.0,3.0,5.0,0.0,0.0,15.0,13.0,13.0
+A Coruña,V,19.0,rural,>3,independizado,3.0,2.0,en_casa,servicios,cerca_casa,yes,no,1.0,1.0,no,yes,no,yes,5.0,3.0,4.0,2.0,2.0,5.0,0.0,0.0,11.0,10.0,10.0
+Vigo,M,18.0,rural,>3,independizado,2.0,2.0,en_casa,otro,curso,yes,no,3.0,2.0,no,no,yes,yes,4.0,3.0,3.0,1.0,1.0,4.0,1.0,0.0,9.0,0.0,0.0
+A Coruña,M,18.0,urbano,<=3,con_nucleo_fam,2.0,1.0,otro,otro,curso,yes,yes,1.0,2.0,no,yes,no,yes,4.0,3.0,4.0,1.0,3.0,5.0,0.0,2.0,12.0,12.0,13.0
+Vigo,M,18.0,urbano,<=3,independizado,3.0,1.0,profesor,servicios,curso,yes,yes,1.0,2.0,no,yes,no,no,4.0,3.0,4.0,1.0,1.0,1.0,0.0,4.0,15.0,15.0,16.0
+Vigo,M,18.0,urbano,>3,independizado,3.0,3.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,no,yes,4.0,1.0,3.0,1.0,2.0,1.0,0.0,1.0,16.0,16.0,16.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,3.0,profesor,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,3.0,4.0,3.0,2.0,3.0,3.0,0.0,4.0,11.0,10.0,11.0
+Vigo,V,19.0,rural,>3,independizado,1.0,1.0,otro,otro,cerca_casa,yes,yes,3.0,1.0,no,yes,no,no,4.0,4.0,4.0,3.0,3.0,5.0,1.0,4.0,8.0,9.0,10.0
+A Coruña,M,15.0,urbano,>3,independizado,4.0,4.0,servicios,servicios,reputacion_centro,yes,yes,2.0,2.0,no,no,no,yes,4.0,4.0,4.0,2.0,3.0,5.0,0.0,4.0,12.0,11.0,12.0
+Vigo,M,17.0,rural,>3,independizado,2.0,2.0,otro,otro,otro,yes,no,2.0,2.0,yes,no,no,no,5.0,1.0,3.0,1.0,1.0,5.0,0.0,0.0,11.0,9.0,11.0
+Vigo,V,17.0,urbano,>3,independizado,1.0,1.0,en_casa,servicios,otro,yes,yes,3.0,2.0,no,no,no,yes,5.0,1.0,3.0,3.0,3.0,1.0,0.0,0.0,10.0,10.0,10.0
+A Coruña,M,18.0,urbano,>3,independizado,1.0,1.0,otro,otro,cerca_casa,yes,yes,2.0,2.0,yes,no,yes,no,5.0,4.0,4.0,1.0,1.0,4.0,0.0,0.0,12.0,13.0,13.0
+Vigo,M,16.0,rural,>3,independizado,2.0,3.0,en_casa,servicios,curso,True,False,2.0,2.0,False,False,False,False,4.0,5.0,2.0,1.0,2.0,5.0,0.0,0.0,16.0,17.0,17.0
+A Coruña,M,17.0,rural,>3,independizado,4.0,2.0,otro,otro,curso,yes,yes,1.0,3.0,no,yes,yes,no,4.0,3.0,4.0,1.0,3.0,5.0,0.0,2.0,11.0,12.0,14.0
+Vigo,M,16.0,rural,>3,independizado,1.0,1.0,en_casa,otro,curso,yes,no,2.0,2.0,yes,yes,no,no,3.0,4.0,3.0,1.0,1.0,1.0,3.0,0.0,7.0,7.0,8.0
+A Coruña,V,18.0,rural,>3,independizado,3.0,2.0,otro,otro,curso,yes,no,1.0,3.0,no,no,yes,no,5.0,3.0,2.0,1.0,1.0,3.0,0.0,2.0,10.0,11.0,12.0
+A Coruña,M,15.0,urbano,>3,independizado,3.0,2.0,servicios,otro,cerca_casa,yes,yes,2.0,2.0,yes,yes,no,no,4.0,3.0,5.0,1.0,1.0,2.0,0.0,16.0,11.0,10.0,10.0
+A Coruña,V,16.0,urbano,>3,independizado,1.0,3.0,en_casa,servicios,curso,no,yes,1.0,1.0,no,no,no,no,5.0,3.0,3.0,1.0,4.0,2.0,1.0,2.0,9.0,8.0,8.0
+A Coruña,V,16.0,urbano,<=3,independizado,4.0,3.0,profesor,otro,curso,yes,yes,1.0,1.0,no,no,yes,no,5.0,4.0,5.0,1.0,1.0,3.0,0.0,7.0,14.0,14.0,15.0
+A Coruña,M,16.0,urbano,<=3,independizado,4.0,4.0,profesor,profesor,reputacion_centro,yes,yes,1.0,2.0,no,yes,no,no,4.0,5.0,2.0,1.0,2.0,3.0,0.0,0.0,11.0,10.0,11.0
+A Coruña,V,18.0,urbano,<=3,independizado,3.0,1.0,servicios,servicios,curso,yes,yes,2.0,1.0,no,no,yes,yes,3.0,3.0,4.0,4.0,5.0,4.0,0.0,2.0,11.0,11.0,12.0
+Vigo,M,17.0,rural,>3,independizado,3.0,1.0,otro,otro,curso,yes,yes,2.0,2.0,no,yes,yes,yes,5.0,4.0,4.0,1.0,1.0,5.0,3.0,2.0,7.0,9.0,10.0
+A Coruña,V,16.0,urbano,<=3,independizado,2.0,1.0,otro,otro,curso,yes,yes,1.0,2.0,no,no,yes,yes,4.0,2.0,3.0,1.0,2.0,5.0,0.0,0.0,13.0,14.0,16.0
+Vigo,M,19.0,urbano,>3,independizado,1.0,1.0,en_casa,servicios,otro,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,2.0,3.0,2.0,1.0,0.0,5.0,0.0,0.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,curso,False,True,1.0,1.0,False,True,False,True,3.0,3.0,2.0,2.0,1.0,5.0,0.0,16.0,9.0,9.0,8.0
+Vigo,M,16.0,rural,<=3,independizado,1.0,2.0,en_casa,otro,curso,no,si,1.0,2.0,no,no,si,no,4.0,4.0,5.0,1.0,3.0,3.0,0.0,0.0,8.0,9.0,9.0
+A Coruña,M,17.0,urbano,>3,independizado,4.0,2.0,otro,otro,reputacion_centro,yes,yes,2.0,3.0,no,yes,no,no,4.0,3.0,3.0,1.0,1.0,3.0,0.0,0.0,16.0,16.0,16.0
+A Coruña,M,19.0,urbano,<=3,con_nucleo_fam,2.0,3.0,en_casa,otro,cerca_casa,no,yes,2.0,1.0,no,no,no,no,2.0,2.0,3.0,3.0,4.0,5.0,1.0,16.0,10.0,11.0,11.0
+Vigo,V,15.0,rural,>3,independizado,1.0,1.0,otro,otro,curso,yes,no,4.0,2.0,no,yes,yes,yes,5.0,4.0,5.0,2.0,4.0,4.0,0.0,8.0,7.0,9.0,9.0
+A Coruña,V,17.0,rural,>3,independizado,2.0,2.0,otro,servicios,otro,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,5.0,2.0,2.0,1.0,1.0,4.0,0.0,0.0,9.0,10.0,10.0
+A Coruña,M,18.0,rural,>3,independizado,3.0,1.0,otro,otro,reputacion_centro,yes,yes,1.0,2.0,no,no,yes,yes,5.0,3.0,3.0,1.0,1.0,4.0,0.0,4.0,8.0,8.0,8.0
+Vigo,V,15.0,urbano,>3,independizado,3.0,1.0,otro,servicios,cerca_casa,yes,no,2.0,1.0,no,yes,no,no,3.0,2.0,3.0,1.0,3.0,4.0,0.0,0.0,10.0,9.0,11.0
+A Coruña,M,19.0,urbano,>3,con_nucleo_fam,3.0,3.0,salud,otro,reputacion_centro,yes,yes,1.0,2.0,no,yes,no,yes,3.0,3.0,3.0,1.0,3.0,3.0,0.0,11.0,13.0,14.0,15.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,servicios,servicios,otro,yes,yes,1.0,1.0,yes,yes,yes,no,4.0,5.0,5.0,5.0,5.0,4.0,0.0,12.0,9.0,9.0,8.0
+Vigo,V,18.0,rural,>3,independizado,1.0,1.0,servicios,otro,curso,no,yes,2.0,1.0,no,yes,no,yes,5.0,3.0,3.0,2.0,3.0,5.0,1.0,2.0,9.0,7.0,9.0
+A Coruña,M,17.0,urbano,<=3,independizado,1.0,1.0,en_casa,en_casa,curso,True,True,1.0,3.0,False,True,True,True,4.0,3.0,2.0,1.0,2.0,4.0,0.0,10.0,11.0,10.0,10.0
+A Coruña,M,20.0,rural,>3,independizado,2.0,1.0,otro,otro,curso,no,si,2.0,2.0,no,si,si,si,1.0,2.0,3.0,1.0,2.0,2.0,0.0,8.0,10.0,12.0,12.0
+Vigo,V,17.0,urbano,>3,independizado,1.0,1.0,otro,otro,cerca_casa,True,True,1.0,2.0,False,False,False,False,4.0,4.0,3.0,2.0,4.0,5.0,0.0,4.0,8.0,9.0,9.0
+A Coruña,M,18.0,urbano,<=3,independizado,3.0,3.0,servicios,servicios,cerca_casa,yes,yes,1.0,4.0,no,yes,no,no,5.0,3.0,3.0,1.0,1.0,1.0,0.0,4.0,14.0,14.0,15.0
+A Coruña,M,18.0,urbano,<=3,independizado,2.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,yes,yes,4.0,3.0,3.0,1.0,1.0,2.0,0.0,0.0,10.0,9.0,12.0
+Vigo,M,18.0,urbano,>3,independizado,1.0,1.0,otro,otro,curso,yes,no,3.0,2.0,no,no,yes,yes,3.0,4.0,4.0,2.0,2.0,5.0,2.0,3.0,7.0,8.0,7.0
+A Coruña,V,16.0,urbano,<=3,independizado,4.0,3.0,salud,otro,cerca_casa,yes,yes,1.0,1.0,no,no,yes,no,3.0,1.0,3.0,1.0,3.0,5.0,0.0,6.0,12.0,12.0,12.0
+Vigo,V,17.0,urbano,>3,independizado,2.0,2.0,otro,otro,curso,yes,no,1.0,1.0,no,no,yes,yes,1.0,2.0,1.0,2.0,3.0,5.0,1.0,0.0,7.0,0.0,0.0
+Vigo,M,17.0,rural,>3,independizado,2.0,2.0,en_casa,otro,curso,yes,yes,2.0,2.0,no,yes,no,no,4.0,3.0,5.0,1.0,2.0,4.0,0.0,0.0,11.0,10.0,11.0
+A Coruña,M,17.0,urbano,<=3,con_nucleo_fam,4.0,2.0,profesor,otro,curso,True,False,1.0,2.0,False,True,True,False,4.0,3.0,2.0,1.0,1.0,4.0,0.0,4.0,15.0,14.0,14.0
+Vigo,M,16.0,urbano,>3,independizado,3.0,1.0,otro,otro,curso,yes,yes,1.0,1.0,no,no,yes,no,3.0,1.0,3.0,1.0,3.0,1.0,0.0,0.0,8.0,6.0,8.0
+A Coruña,M,15.0,rural,>3,independizado,3.0,4.0,servicios,profesor,curso,si,si,2.0,3.0,no,si,no,si,4.0,2.0,2.0,2.0,2.0,5.0,0.0,0.0,10.0,11.0,12.0
+Vigo,V,16.0,urbano,<=3,con_nucleo_fam,2.0,2.0,otro,servicios,curso,1.0,1.0,2.0,2.0,0.0,1.0,0.0,1.0,4.0,1.0,2.0,2.0,2.0,5.0,0.0,0.0,12.0,13.0,13.0
+Vigo,V,17.0,urbano,>3,independizado,3.0,3.0,salud,otro,curso,yes,yes,2.0,2.0,no,yes,no,no,4.0,5.0,4.0,2.0,3.0,3.0,1.0,4.0,8.0,9.0,10.0
+A Coruña,V,18.0,urbano,>3,independizado,1.0,2.0,en_casa,otro,cerca_casa,no,yes,2.0,1.0,no,no,no,no,3.0,4.0,4.0,2.0,4.0,4.0,0.0,10.0,10.0,10.0,11.0
+A Coruña,V,17.0,urbano,>3,independizado,1.0,2.0,en_casa,servicios,otro,yes,yes,2.0,2.0,no,no,yes,no,4.0,4.0,4.0,4.0,5.0,5.0,0.0,16.0,10.0,11.0,12.0
+Vigo,V,16.0,urbano,<=3,independizado,4.0,3.0,otro,otro,curso,yes,yes,1.0,1.0,no,no,yes,no,4.0,2.0,5.0,1.0,5.0,5.0,0.0,8.0,14.0,12.0,13.0
+Vigo,V,18.0,urbano,<=3,independizado,1.0,3.0,en_casa,servicios,curso,no,yes,1.0,1.0,no,no,no,yes,4.0,3.0,3.0,2.0,3.0,3.0,0.0,0.0,9.0,10.0,9.0
+Vigo,V,18.0,rural,>3,independizado,1.0,3.0,en_casa,otro,curso,yes,no,2.0,2.0,no,yes,no,no,3.0,3.0,4.0,2.0,4.0,3.0,0.0,0.0,8.0,10.0,9.0
+Vigo,V,15.0,rural,<=3,independizado,4.0,1.0,salud,servicios,reputacion_centro,si,si,1.0,2.0,no,si,si,no,5.0,3.0,4.0,1.0,2.0,2.0,0.0,0.0,12.0,13.0,14.0
+A Coruña,M,20.0,rural,>3,independizado,1.0,1.0,otro,otro,reputacion_centro,yes,yes,2.0,3.0,no,no,no,yes,3.0,2.0,2.0,1.0,3.0,3.0,0.0,8.0,11.0,15.0,15.0
+Vigo,V,16.0,urbano,>3,independizado,4.0,4.0,otro,profesor,curso,True,False,1.0,2.0,False,True,True,True,4.0,3.0,1.0,1.0,1.0,3.0,0.0,0.0,13.0,12.0,13.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,2.0,otro,otro,curso,yes,no,1.0,2.0,no,yes,no,yes,4.0,2.0,2.0,1.0,1.0,3.0,0.0,4.0,14.0,13.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,4.0,salud,salud,reputacion_centro,yes,yes,1.0,2.0,no,yes,no,yes,4.0,4.0,2.0,1.0,1.0,3.0,0.0,0.0,16.0,16.0,17.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,1.0,servicios,servicios,curso,1.0,1.0,1.0,3.0,0.0,1.0,0.0,0.0,3.0,4.0,3.0,2.0,3.0,5.0,0.0,0.0,17.0,18.0,17.0
+A Coruña,V,16.0,rural,>3,con_nucleo_fam,4.0,4.0,otro,profesor,reputacion_centro,yes,yes,2.0,3.0,no,yes,yes,yes,2.0,4.0,3.0,1.0,1.0,5.0,0.0,4.0,13.0,13.0,13.0
+A Coruña,M,16.0,rural,>3,independizado,1.0,1.0,en_casa,otro,curso,yes,no,4.0,2.0,no,yes,no,no,5.0,1.0,3.0,1.0,1.0,3.0,0.0,0.0,14.0,13.0,13.0
+A Coruña,V,15.0,urbano,>3,independizado,3.0,4.0,otro,otro,reputacion_centro,True,True,1.0,1.0,False,False,False,False,3.0,4.0,3.0,1.0,2.0,4.0,0.0,2.0,14.0,13.0,14.0
+Vigo,M,16.0,urbano,>3,independizado,4.0,4.0,profesor,servicios,curso,yes,yes,2.0,3.0,no,yes,no,yes,5.0,3.0,5.0,1.0,4.0,5.0,0.0,1.0,10.0,11.0,12.0
+A Coruña,V,15.0,rural,>3,independizado,4.0,4.0,otro,otro,cerca_casa,yes,yes,4.0,4.0,no,yes,yes,yes,1.0,3.0,5.0,3.0,5.0,1.0,0.0,8.0,12.0,10.0,11.0
+A Coruña,M,20.0,urbano,>3,independizado,3.0,2.0,en_casa,otro,reputacion_centro,yes,yes,1.0,3.0,no,yes,no,yes,4.0,3.0,4.0,1.0,2.0,2.0,0.0,6.0,15.0,19.0,19.0
+A Coruña,V,16.0,urbano,<=3,independizado,4.0,3.0,servicios,otro,reputacion_centro,yes,yes,1.0,2.0,no,yes,yes,no,5.0,4.0,2.0,1.0,2.0,5.0,0.0,6.0,12.0,12.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,2.0,3.0,servicios,servicios,curso,yes,yes,1.0,2.0,no,no,no,no,4.0,3.0,3.0,1.0,1.0,2.0,0.0,6.0,12.0,12.0,13.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,4.0,servicios,otro,curso,yes,yes,1.0,3.0,no,no,no,no,4.0,4.0,5.0,1.0,3.0,5.0,0.0,8.0,11.0,13.0,14.0
+A Coruña,M,17.0,urbano,<=3,independizado,4.0,3.0,salud,otro,reputacion_centro,yes,yes,1.0,2.0,no,no,yes,yes,3.0,2.0,3.0,1.0,2.0,3.0,0.0,0.0,14.0,12.0,12.0
+A Coruña,M,18.0,urbano,<=3,con_nucleo_fam,4.0,4.0,salud,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,no,yes,4.0,2.0,4.0,1.0,1.0,4.0,0.0,0.0,14.0,15.0,15.0
+A Coruña,V,16.0,urbano,>3,independizado,2.0,1.0,en_casa,otro,curso,yes,no,4.0,1.0,no,no,no,no,3.0,2.0,1.0,1.0,1.0,2.0,0.0,4.0,9.0,9.0,11.0
+A Coruña,M,18.0,urbano,<=3,con_nucleo_fam,2.0,4.0,servicios,otro,curso,1.0,1.0,2.0,2.0,0.0,1.0,0.0,0.0,4.0,3.0,3.0,1.0,1.0,3.0,1.0,18.0,10.0,10.0,10.0
+A Coruña,M,19.0,urbano,>3,independizado,3.0,2.0,otro,otro,curso,yes,yes,1.0,2.0,no,no,yes,no,6.0,3.0,4.0,1.0,3.0,3.0,0.0,2.0,19.0,20.0,19.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,3.0,en_casa,otro,curso,yes,yes,1.0,3.0,no,yes,no,no,4.0,3.0,3.0,1.0,2.0,3.0,0.0,0.0,11.0,12.0,14.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,3.0,profesor,otro,curso,si,si,2.0,2.0,no,si,no,no,5.0,4.0,3.0,1.0,2.0,3.0,0.0,0.0,12.0,12.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,2.0,2.0,en_casa,otro,cerca_casa,True,True,1.0,2.0,True,False,True,False,3.0,1.0,2.0,1.0,1.0,5.0,1.0,12.0,8.0,10.0,10.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,2.0,profesor,servicios,cerca_casa,yes,yes,2.0,2.0,no,yes,yes,no,5.0,3.0,3.0,1.0,1.0,1.0,0.0,2.0,13.0,14.0,14.0
+A Coruña,M,15.0,rural,>3,independizado,1.0,1.0,otro,otro,reputacion_centro,yes,yes,1.0,2.0,yes,yes,no,yes,3.0,3.0,4.0,2.0,4.0,5.0,0.0,2.0,13.0,11.0,11.0
+A Coruña,V,17.0,urbano,<=3,con_nucleo_fam,3.0,2.0,otro,otro,reputacion_centro,si,si,1.0,2.0,no,si,no,no,4.0,4.0,4.0,1.0,2.0,5.0,0.0,10.0,16.0,18.0,18.0
+A Coruña,V,18.0,rural,<=3,independizado,3.0,2.0,servicios,otro,reputacion_centro,yes,yes,2.0,3.0,no,yes,yes,no,5.0,4.0,2.0,1.0,1.0,4.0,0.0,0.0,14.0,15.0,15.0
+A Coruña,M,15.0,urbano,>3,independizado,4.0,2.0,otro,otro,reputacion_centro,yes,yes,1.0,3.0,no,yes,yes,no,5.0,3.0,3.0,1.0,3.0,1.0,0.0,4.0,15.0,15.0,15.0
+A Coruña,M,17.0,urbano,>3,independizado,1.0,1.0,servicios,profesor,reputacion_centro,yes,yes,1.0,3.0,no,yes,no,no,4.0,3.0,3.0,1.0,1.0,3.0,0.0,0.0,13.0,13.0,14.0
+A Coruña,M,17.0,urbano,<=3,independizado,2.0,4.0,servicios,servicios,curso,1.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,4.0,3.0,2.0,1.0,1.0,5.0,0.0,8.0,14.0,15.0,16.0
+A Coruña,M,16.0,urbano,>3,independizado,2.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,no,yes,5.0,4.0,4.0,1.0,1.0,5.0,0.0,0.0,12.0,11.0,11.0
+Vigo,M,18.0,urbano,<=3,con_nucleo_fam,1.0,1.0,en_casa,servicios,curso,yes,no,1.0,2.0,no,no,no,yes,5.0,2.0,3.0,1.0,2.0,3.0,0.0,2.0,8.0,10.0,11.0
+Vigo,V,18.0,urbano,<=3,independizado,4.0,4.0,servicios,otro,reputacion_centro,True,True,1.0,1.0,False,True,True,False,5.0,4.0,5.0,1.0,1.0,5.0,0.0,3.0,17.0,17.0,17.0
+A Coruña,V,18.0,urbano,<=3,independizado,2.0,2.0,otro,otro,curso,yes,yes,1.0,4.0,no,yes,yes,no,4.0,5.0,5.0,2.0,4.0,5.0,0.0,0.0,11.0,11.0,12.0
+Vigo,M,18.0,urbano,>3,independizado,3.0,3.0,servicios,servicios,curso,yes,no,1.0,2.0,no,yes,no,yes,5.0,3.0,4.0,1.0,1.0,5.0,0.0,0.0,10.0,10.0,10.0
+A Coruña,M,15.0,urbano,>3,independizado,1.0,1.0,en_casa,otro,curso,True,True,3.0,1.0,False,True,True,True,4.0,3.0,3.0,1.0,2.0,4.0,0.0,6.0,11.0,12.0,13.0
+Vigo,M,15.0,rural,>3,independizado,3.0,3.0,en_casa,otro,curso,yes,yes,2.0,1.0,no,yes,no,no,5.0,4.0,4.0,2.0,3.0,5.0,0.0,4.0,10.0,10.0,11.0
+A Coruña,V,15.0,urbano,<=3,con_nucleo_fam,3.0,2.0,servicios,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,no,no,4.0,2.0,2.0,1.0,1.0,1.0,0.0,0.0,15.0,16.0,17.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,2.0,salud,salud,reputacion_centro,yes,yes,1.0,4.0,no,yes,yes,no,5.0,2.0,2.0,1.0,2.0,5.0,0.0,0.0,18.0,18.0,18.0
+Vigo,M,16.0,urbano,>3,independizado,2.0,2.0,servicios,otro,curso,yes,no,1.0,1.0,no,yes,yes,yes,4.0,2.0,5.0,1.0,2.0,5.0,0.0,0.0,17.0,16.0,16.0
+A Coruña,V,15.0,urbano,<=3,independizado,4.0,4.0,salud,servicios,curso,yes,yes,1.0,1.0,no,yes,yes,no,4.0,3.0,3.0,1.0,3.0,5.0,0.0,0.0,12.0,13.0,12.0
+A Coruña,M,15.0,urbano,>3,independizado,1.0,1.0,otro,servicios,curso,si,si,1.0,2.0,no,si,no,no,4.0,4.0,2.0,1.0,2.0,5.0,0.0,0.0,12.0,12.0,12.0
+A Coruña,M,16.0,urbano,>3,independizado,3.0,3.0,otro,otro,reputacion_centro,yes,no,3.0,2.0,yes,yes,yes,no,5.0,3.0,2.0,1.0,1.0,4.0,0.0,2.0,13.0,14.0,14.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,3.0,otro,otro,curso,yes,yes,2.0,2.0,no,no,yes,yes,4.0,2.0,1.0,1.0,1.0,3.0,0.0,2.0,11.0,12.0,14.0
+A Coruña,M,18.0,urbano,<=3,independizado,1.0,1.0,otro,en_casa,cerca_casa,yes,no,1.0,3.0,no,yes,no,no,4.0,4.0,3.0,2.0,3.0,3.0,0.0,4.0,11.0,12.0,14.0
+Vigo,V,17.0,rural,>3,independizado,2.0,2.0,otro,otro,curso,no,no,2.0,1.0,no,no,yes,yes,5.0,5.0,5.0,3.0,5.0,5.0,0.0,0.0,8.0,13.0,10.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,4.0,profesor,servicios,cerca_casa,True,True,1.0,3.0,False,True,True,False,5.0,3.0,2.0,1.0,1.0,5.0,0.0,4.0,15.0,16.0,16.0
+A Coruña,M,17.0,urbano,<=3,independizado,2.0,2.0,servicios,servicios,curso,yes,yes,1.0,4.0,no,no,yes,yes,3.0,4.0,1.0,1.0,1.0,2.0,0.0,2.0,10.0,11.0,12.0
+Vigo,M,16.0,urbano,>3,independizado,3.0,2.0,servicios,en_casa,curso,yes,yes,1.0,1.0,no,no,no,no,3.0,1.0,3.0,1.0,4.0,3.0,0.0,2.0,7.0,6.0,7.0
+A Coruña,M,18.0,urbano,>3,independizado,3.0,2.0,servicios,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,yes,3.0,1.0,2.0,1.0,2.0,1.0,0.0,4.0,10.0,13.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,1.0,1.0,en_casa,otro,cerca_casa,yes,no,2.0,1.0,no,yes,no,no,4.0,3.0,2.0,1.0,4.0,5.0,0.0,2.0,12.0,13.0,13.0
+Vigo,M,16.0,urbano,<=3,independizado,4.0,4.0,servicios,servicios,otro,yes,no,2.0,1.0,no,yes,no,no,5.0,1.0,3.0,1.0,2.0,5.0,0.0,1.0,11.0,11.0,11.0
+A Coruña,V,16.0,urbano,<=3,independizado,2.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,no,no,4.0,4.0,4.0,1.0,1.0,3.0,0.0,0.0,13.0,12.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,3.0,profesor,otro,otro,si,si,1.0,2.0,no,no,si,si,1.0,3.0,2.0,1.0,1.0,1.0,0.0,4.0,14.0,15.0,15.0
+A Coruña,V,16.0,rural,>3,independizado,4.0,4.0,profesor,profesor,curso,yes,yes,1.0,1.0,no,no,yes,no,3.0,5.0,5.0,2.0,5.0,4.0,0.0,8.0,14.0,14.0,15.0
+Vigo,M,16.0,urbano,>3,independizado,1.0,1.0,en_casa,otro,curso,yes,no,1.0,2.0,no,yes,no,yes,5.0,4.0,3.0,2.0,1.0,2.0,0.0,0.0,13.0,14.0,15.0
+A Coruña,V,17.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,reputacion_centro,yes,yes,1.0,2.0,yes,yes,yes,yes,4.0,5.0,5.0,1.0,3.0,2.0,0.0,0.0,13.0,13.0,13.0
+A Coruña,V,18.0,urbano,>3,independizado,3.0,2.0,servicios,otro,curso,no,yes,2.0,1.0,no,no,no,no,4.0,4.0,5.0,2.0,4.0,5.0,0.0,8.0,7.0,8.0,7.0
+Vigo,V,16.0,rural,>3,independizado,1.0,1.0,en_casa,otro,otro,yes,no,2.0,1.0,no,no,yes,no,3.0,4.0,4.0,3.0,4.0,5.0,0.0,6.0,11.0,11.0,11.0
+A Coruña,M,16.0,urbano,>3,con_nucleo_fam,3.0,3.0,servicios,servicios,cerca_casa,yes,no,1.0,2.0,no,no,no,yes,1.0,3.0,2.0,2.0,3.0,1.0,0.0,26.0,10.0,9.0,10.0
+A Coruña,V,15.0,urbano,>3,con_nucleo_fam,4.0,4.0,otro,servicios,reputacion_centro,1.0,1.0,1.0,4.0,0.0,1.0,1.0,1.0,1.0,3.0,3.0,5.0,5.0,3.0,0.0,0.0,11.0,12.0,12.0
+Vigo,M,18.0,urbano,<=3,independizado,2.0,2.0,servicios,servicios,curso,True,True,2.0,3.0,False,False,False,True,5.0,4.0,5.0,1.0,4.0,3.0,0.0,0.0,11.0,12.0,13.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,3.0,profesor,otro,reputacion_centro,yes,yes,1.0,2.0,no,no,no,no,4.0,4.0,1.0,1.0,1.0,1.0,0.0,0.0,12.0,13.0,14.0
+A Coruña,V,18.0,urbano,>3,independizado,4.0,2.0,profesor,otro,cerca_casa,True,True,1.0,2.0,False,True,True,True,4.0,3.0,2.0,1.0,4.0,5.0,0.0,2.0,15.0,16.0,16.0
+A Coruña,V,17.0,urbano,>3,independizado,2.0,3.0,otro,otro,curso,yes,yes,2.0,1.0,no,no,no,no,5.0,2.0,2.0,1.0,1.0,2.0,0.0,2.0,9.0,12.0,13.0
+A Coruña,V,15.0,rural,>3,independizado,4.0,3.0,profesor,en_casa,curso,yes,yes,1.0,2.0,no,yes,yes,yes,4.0,5.0,2.0,1.0,1.0,5.0,0.0,0.0,13.0,14.0,15.0
+A Coruña,M,16.0,urbano,>3,con_nucleo_fam,3.0,3.0,otro,otro,curso,yes,yes,2.0,1.0,no,yes,yes,yes,4.0,3.0,2.0,1.0,1.0,5.0,0.0,4.0,9.0,9.0,10.0
+Vigo,V,17.0,rural,<=3,independizado,2.0,2.0,servicios,servicios,otro,yes,no,3.0,4.0,no,yes,no,no,1.0,3.0,5.0,3.0,5.0,3.0,1.0,2.0,10.0,8.0,9.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,3.0,otro,servicios,curso,yes,yes,1.0,2.0,no,yes,no,yes,4.0,5.0,5.0,4.0,4.0,5.0,1.0,0.0,10.0,10.0,1.0
+A Coruña,M,17.0,urbano,>3,independizado,4.0,4.0,profesor,servicios,curso,yes,yes,1.0,3.0,no,yes,yes,no,5.0,4.0,4.0,1.0,3.0,4.0,0.0,0.0,13.0,12.0,13.0
+Vigo,M,16.0,urbano,<=3,con_nucleo_fam,2.0,2.0,en_casa,otro,reputacion_centro,False,False,2.0,4.0,False,False,True,True,1.0,2.0,1.0,1.0,1.0,1.0,0.0,4.0,10.0,9.0,11.0
+A Coruña,V,16.0,rural,<=3,independizado,3.0,3.0,profesor,otro,cerca_casa,yes,yes,3.0,1.0,no,yes,yes,no,3.0,3.0,4.0,3.0,5.0,3.0,0.0,16.0,10.0,11.0,12.0
+Vigo,V,16.0,urbano,>3,con_nucleo_fam,1.0,2.0,otro,otro,otro,yes,yes,1.0,3.0,yes,no,no,no,4.0,4.0,3.0,1.0,1.0,5.0,0.0,0.0,10.0,11.0,11.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,1.0,servicios,otro,reputacion_centro,yes,yes,1.0,2.0,no,yes,yes,no,4.0,3.0,5.0,2.0,4.0,4.0,0.0,4.0,12.0,16.0,16.0
+Vigo,M,18.0,urbano,>3,con_nucleo_fam,2.0,4.0,otro,servicios,reputacion_centro,True,True,1.0,2.0,False,True,False,False,2.0,3.0,2.0,1.0,3.0,1.0,1.0,8.0,8.0,5.0,8.0
+Vigo,M,16.0,rural,>3,independizado,2.0,2.0,en_casa,otro,curso,yes,no,2.0,2.0,no,yes,yes,no,4.0,4.0,4.0,2.0,3.0,5.0,1.0,2.0,12.0,11.0,12.0
+Vigo,M,16.0,urbano,<=3,con_nucleo_fam,2.0,2.0,otro,otro,cerca_casa,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,4.0,3.0,4.0,1.0,2.0,1.0,0.0,6.0,7.0,7.0,8.0
+Vigo,M,18.0,urbano,<=3,con_nucleo_fam,1.0,2.0,en_casa,otro,reputacion_centro,yes,yes,2.0,2.0,no,no,no,no,4.0,4.0,3.0,1.0,2.0,4.0,0.0,0.0,12.0,13.0,14.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,3.0,profesor,salud,cerca_casa,True,True,1.0,3.0,True,True,True,False,3.0,4.0,4.0,2.0,4.0,4.0,0.0,0.0,14.0,13.0,13.0
+Vigo,M,16.0,rural,<=3,independizado,2.0,2.0,otro,otro,curso,yes,no,1.0,3.0,no,yes,no,yes,4.0,3.0,3.0,2.0,2.0,5.0,0.0,2.0,11.0,11.0,11.0
+A Coruña,M,15.0,urbano,>3,independizado,2.0,1.0,servicios,otro,reputacion_centro,1.0,1.0,3.0,3.0,0.0,1.0,1.0,0.0,5.0,2.0,2.0,1.0,1.0,4.0,0.0,0.0,10.0,12.0,13.0
+A Coruña,M,15.0,rural,>3,independizado,3.0,3.0,servicios,servicios,reputacion_centro,1.0,1.0,2.0,3.0,0.0,1.0,1.0,1.0,4.0,2.0,1.0,2.0,3.0,3.0,0.0,2.0,13.0,13.0,13.0
+Vigo,V,16.0,rural,>3,independizado,1.0,2.0,otro,otro,curso,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,4.0,3.0,3.0,1.0,1.0,5.0,0.0,0.0,10.0,11.0,11.0
+Vigo,V,15.0,urbano,>3,independizado,3.0,3.0,servicios,servicios,curso,yes,yes,2.0,1.0,no,yes,yes,no,4.0,3.0,3.0,2.0,4.0,3.0,0.0,11.0,12.0,10.0,11.0
+A Coruña,V,17.0,urbano,>3,independizado,2.0,1.0,otro,otro,cerca_casa,yes,yes,1.0,1.0,no,yes,no,no,5.0,4.0,5.0,1.0,2.0,5.0,0.0,22.0,9.0,7.0,6.0
+A Coruña,V,16.0,urbano,>3,independizado,2.0,2.0,otro,otro,curso,no,yes,1.0,2.0,no,no,no,no,4.0,3.0,5.0,2.0,4.0,4.0,0.0,0.0,9.0,10.0,11.0
+A Coruña,M,17.0,rural,<=3,independizado,3.0,1.0,servicios,otro,reputacion_centro,si,no,2.0,4.0,no,si,no,no,3.0,1.0,2.0,1.0,1.0,3.0,0.0,0.0,18.0,19.0,19.0
+Vigo,M,17.0,rural,>3,independizado,1.0,2.0,otro,servicios,curso,yes,no,2.0,2.0,no,no,no,no,3.0,2.0,2.0,1.0,2.0,3.0,0.0,0.0,13.0,13.0,13.0
+Vigo,M,18.0,rural,>3,independizado,1.0,1.0,en_casa,en_casa,curso,False,True,2.0,1.0,False,False,False,True,3.0,2.0,3.0,1.0,1.0,2.0,1.0,4.0,9.0,11.0,10.0
+Vigo,V,16.0,rural,>3,independizado,3.0,4.0,otro,salud,otro,yes,no,3.0,2.0,no,no,no,no,3.0,4.0,5.0,1.0,2.0,5.0,0.0,4.0,9.0,10.0,11.0
+A Coruña,M,17.0,rural,>3,con_nucleo_fam,3.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,no,no,4.0,3.0,3.0,2.0,3.0,2.0,0.0,0.0,14.0,14.0,16.0
+A Coruña,M,18.0,urbano,>3,independizado,4.0,4.0,profesor,otro,curso,yes,yes,1.0,2.0,no,yes,no,no,4.0,4.0,4.0,3.0,3.0,5.0,0.0,0.0,12.0,11.0,13.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,1.0,otro,otro,reputacion_centro,1.0,1.0,2.0,2.0,0.0,0.0,1.0,1.0,4.0,3.0,1.0,1.0,1.0,5.0,0.0,10.0,12.0,13.0,14.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,2.0,otro,otro,curso,yes,no,1.0,2.0,no,no,yes,no,5.0,4.0,2.0,1.0,1.0,3.0,0.0,4.0,14.0,14.0,15.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,2.0,otro,servicios,reputacion_centro,yes,yes,3.0,3.0,no,yes,no,yes,4.0,2.0,3.0,1.0,1.0,1.0,0.0,8.0,13.0,15.0,15.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,4.0,otro,otro,reputacion_centro,True,True,1.0,1.0,False,False,True,False,5.0,3.0,4.0,1.0,2.0,1.0,0.0,4.0,12.0,13.0,13.0
+A Coruña,V,17.0,urbano,>3,independizado,3.0,1.0,servicios,otro,otro,yes,yes,1.0,2.0,no,no,yes,yes,5.0,4.0,4.0,3.0,4.0,5.0,0.0,0.0,11.0,11.0,14.0
+A Coruña,M,18.0,urbano,<=3,independizado,4.0,3.0,salud,servicios,curso,yes,yes,2.0,1.0,no,yes,no,no,3.0,2.0,4.0,1.0,4.0,1.0,0.0,8.0,12.0,12.0,15.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,2.0,salud,servicios,cerca_casa,yes,yes,1.0,2.0,no,no,no,yes,4.0,2.0,3.0,1.0,1.0,3.0,0.0,0.0,17.0,17.0,18.0
+Vigo,M,17.0,rural,>3,independizado,4.0,1.0,otro,otro,otro,yes,yes,1.0,1.0,no,no,no,yes,4.0,2.0,3.0,1.0,2.0,5.0,0.0,1.0,13.0,14.0,14.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,servicios,profesor,otro,yes,yes,1.0,3.0,no,yes,yes,yes,4.0,4.0,3.0,1.0,1.0,4.0,0.0,0.0,16.0,16.0,16.0
+Vigo,M,17.0,rural,>3,independizado,3.0,2.0,en_casa,otro,curso,yes,no,1.0,2.0,no,no,no,yes,4.0,5.0,4.0,1.0,2.0,5.0,1.0,0.0,10.0,10.0,10.0
+A Coruña,V,15.0,urbano,<=3,independizado,1.0,2.0,otro,en_casa,cerca_casa,yes,yes,1.0,2.0,yes,yes,yes,no,4.0,3.0,2.0,1.0,1.0,5.0,0.0,0.0,14.0,13.0,14.0
+A Coruña,M,16.0,urbano,<=3,independizado,4.0,4.0,salud,salud,otro,yes,yes,1.0,3.0,no,yes,yes,yes,5.0,4.0,5.0,1.0,1.0,4.0,0.0,2.0,15.0,15.0,14.0
+Vigo,M,18.0,urbano,>3,independizado,1.0,2.0,en_casa,en_casa,curso,False,False,2.0,2.0,False,True,False,False,4.0,1.0,1.0,1.0,1.0,4.0,0.0,0.0,11.0,11.0,12.0
+A Coruña,V,17.0,rural,<=3,independizado,2.0,1.0,en_casa,otro,curso,no,yes,2.0,1.0,no,no,yes,yes,3.0,3.0,2.0,2.0,2.0,5.0,1.0,8.0,8.0,8.0,9.0
+Vigo,M,19.0,rural,>3,con_nucleo_fam,1.0,1.0,en_casa,en_casa,curso,no,no,2.0,2.0,no,yes,yes,yes,3.0,5.0,4.0,1.0,4.0,1.0,3.0,0.0,8.0,0.0,0.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,3.0,profesor,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,4.0,3.0,3.0,2.0,3.0,5.0,0.0,0.0,11.0,11.0,11.0
+A Coruña,M,15.0,urbano,<=3,con_nucleo_fam,2.0,1.0,en_casa,otro,cerca_casa,no,yes,2.0,1.0,no,yes,yes,yes,4.0,4.0,2.0,1.0,1.0,5.0,0.0,0.0,11.0,10.0,10.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,1.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,yes,no,5.0,2.0,4.0,1.0,2.0,4.0,0.0,2.0,16.0,16.0,16.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,1.0,otro,en_casa,cerca_casa,True,True,1.0,1.0,False,True,False,True,4.0,1.0,2.0,1.0,1.0,3.0,1.0,6.0,10.0,13.0,13.0
+Vigo,V,17.0,rural,>3,independizado,4.0,4.0,salud,otro,curso,yes,yes,3.0,1.0,no,no,yes,yes,3.0,3.0,3.0,1.0,3.0,5.0,3.0,2.0,9.0,9.0,8.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,1.0,no,yes,no,no,5.0,4.0,3.0,1.0,1.0,5.0,0.0,4.0,12.0,12.0,12.0
+Vigo,M,17.0,urbano,>3,independizado,4.0,2.0,profesor,servicios,cerca_casa,yes,yes,1.0,2.0,yes,yes,yes,no,5.0,5.0,5.0,1.0,3.0,5.0,0.0,0.0,8.0,8.0,0.0
+Vigo,M,18.0,rural,<=3,con_nucleo_fam,1.0,2.0,en_casa,otro,curso,yes,no,3.0,2.0,no,no,no,yes,4.0,3.0,4.0,1.0,4.0,5.0,0.0,0.0,16.0,15.0,15.0
+Vigo,M,16.0,rural,<=3,independizado,2.0,1.0,otro,otro,cerca_casa,True,True,1.0,1.0,False,True,False,True,5.0,4.0,3.0,1.0,1.0,5.0,0.0,2.0,10.0,8.0,8.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,1.0,otro,otro,reputacion_centro,True,True,2.0,4.0,False,True,False,False,4.0,3.0,2.0,1.0,1.0,5.0,0.0,2.0,13.0,11.0,11.0
+A Coruña,V,18.0,urbano,>3,independizado,4.0,2.0,salud,otro,reputacion_centro,yes,yes,1.0,2.0,no,yes,yes,yes,5.0,4.0,5.0,1.0,3.0,5.0,0.0,4.0,10.0,12.0,14.0
+A Coruña,V,18.0,rural,>3,independizado,4.0,3.0,profesor,servicios,curso,yes,yes,1.0,3.0,no,no,no,yes,5.0,3.0,2.0,1.0,2.0,4.0,0.0,4.0,15.0,14.0,17.0
+Vigo,M,17.0,rural,<=3,con_nucleo_fam,3.0,1.0,otro,en_casa,curso,no,no,2.0,3.0,no,si,no,no,4.0,2.0,3.0,2.0,2.0,3.0,0.0,5.0,8.0,7.0,8.0
+A Coruña,M,19.0,urbano,>3,independizado,4.0,4.0,salud,otro,reputacion_centro,1.0,1.0,2.0,2.0,0.0,1.0,1.0,0.0,2.0,3.0,4.0,2.0,3.0,2.0,0.0,2.0,14.0,13.0,13.0
+A Coruña,V,19.0,urbano,<=3,independizado,2.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,yes,yes,4.0,4.0,2.0,6.0,6.0,4.0,0.0,0.0,18.0,18.0,18.0
+Vigo,M,16.0,urbano,<=3,independizado,2.0,1.0,otro,servicios,otro,si,si,1.0,2.0,no,no,no,si,3.0,2.0,2.0,1.0,1.0,3.0,0.0,0.0,14.0,15.0,16.0
+Vigo,V,16.0,urbano,<=3,independizado,2.0,1.0,en_casa,servicios,curso,1.0,1.0,2.0,1.0,0.0,1.0,1.0,0.0,2.0,4.0,3.0,2.0,3.0,4.0,0.0,4.0,10.0,8.0,10.0
+A Coruña,V,17.0,rural,>3,independizado,1.0,2.0,en_casa,otro,cerca_casa,True,False,1.0,2.0,False,False,False,False,3.0,1.0,3.0,1.0,5.0,3.0,0.0,6.0,9.0,9.0,10.0
+A Coruña,V,17.0,urbano,<=3,con_nucleo_fam,4.0,1.0,servicios,otro,cerca_casa,si,si,2.0,1.0,no,no,si,si,4.0,5.0,4.0,2.0,4.0,5.0,0.0,22.0,11.0,11.0,10.0
+A Coruña,M,18.0,urbano,>3,independizado,3.0,2.0,otro,servicios,otro,True,True,1.0,3.0,False,False,False,True,5.0,4.0,3.0,2.0,3.0,1.0,0.0,4.0,14.0,16.0,17.0
+A Coruña,M,18.0,urbano,>3,independizado,3.0,4.0,otro,otro,curso,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,5.0,4.0,4.0,1.0,1.0,1.0,0.0,4.0,11.0,12.0,14.0
+Vigo,V,16.0,urbano,>3,independizado,1.0,1.0,en_casa,servicios,cerca_casa,1.0,0.0,2.0,2.0,0.0,1.0,1.0,1.0,5.0,4.0,5.0,4.0,5.0,3.0,0.0,0.0,7.0,0.0,0.0
+Vigo,M,17.0,rural,>3,independizado,2.0,3.0,otro,otro,curso,yes,yes,2.0,1.0,no,yes,no,no,5.0,5.0,5.0,1.0,3.0,3.0,0.0,2.0,10.0,11.0,12.0
+A Coruña,M,15.0,urbano,<=3,independizado,4.0,2.0,salud,otro,otro,yes,yes,1.0,2.0,no,yes,no,no,4.0,3.0,3.0,1.0,1.0,5.0,0.0,0.0,16.0,14.0,16.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,3.0,servicios,otro,cerca_casa,si,si,1.0,2.0,no,no,si,si,4.0,2.0,3.0,1.0,2.0,3.0,0.0,0.0,11.0,12.0,13.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,2.0,otro,otro,curso,yes,yes,1.0,2.0,no,no,yes,no,5.0,3.0,4.0,1.0,3.0,3.0,0.0,2.0,17.0,18.0,17.0
+A Coruña,V,16.0,urbano,<=3,con_nucleo_fam,4.0,4.0,profesor,salud,reputacion_centro,yes,no,1.0,2.0,no,yes,no,no,4.0,1.0,3.0,3.0,5.0,5.0,0.0,6.0,9.0,9.0,10.0
+A Coruña,M,19.0,urbano,>3,independizado,3.0,3.0,otro,otro,reputacion_centro,True,True,1.0,4.0,False,True,True,False,4.0,3.0,3.0,1.0,2.0,3.0,0.0,4.0,12.0,12.0,12.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,salud,otro,reputacion_centro,si,si,1.0,2.0,no,si,si,no,4.0,2.0,4.0,2.0,4.0,1.0,0.0,0.0,13.0,13.0,14.0
+A Coruña,V,19.0,rural,>3,independizado,3.0,3.0,otro,servicios,reputacion_centro,1.0,0.0,1.0,2.0,0.0,0.0,1.0,1.0,4.0,5.0,3.0,1.0,2.0,5.0,0.0,0.0,10.0,10.0,11.0
+Vigo,M,19.0,rural,>3,independizado,1.0,1.0,en_casa,otro,curso,yes,yes,2.0,2.0,no,yes,no,yes,4.0,3.0,3.0,1.0,1.0,3.0,1.0,4.0,7.0,8.0,9.0
+Vigo,V,18.0,urbano,<=3,independizado,1.0,1.0,en_casa,en_casa,curso,1.0,0.0,2.0,2.0,0.0,1.0,1.0,0.0,4.0,3.0,3.0,1.0,4.0,5.0,0.0,6.0,10.0,9.0,10.0
+A Coruña,M,15.0,urbano,>3,independizado,1.0,2.0,en_casa,otro,curso,yes,yes,1.0,2.0,no,yes,no,no,4.0,3.0,2.0,1.0,1.0,5.0,0.0,6.0,13.0,12.0,13.0
+A Coruña,V,18.0,urbano,>3,independizado,4.0,3.0,profesor,otro,curso,True,True,1.0,2.0,False,True,False,False,4.0,3.0,2.0,1.0,1.0,3.0,0.0,2.0,10.0,10.0,11.0
+Vigo,V,17.0,urbano,>3,independizado,3.0,3.0,servicios,servicios,cerca_casa,yes,yes,1.0,1.0,no,yes,yes,no,4.0,1.0,4.0,5.0,5.0,3.0,0.0,8.0,7.0,10.0,9.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,1.0,servicios,servicios,reputacion_centro,yes,yes,1.0,3.0,no,no,yes,no,4.0,2.0,4.0,1.0,3.0,2.0,0.0,0.0,14.0,15.0,15.0
+Vigo,M,17.0,urbano,>3,independizado,3.0,2.0,en_casa,otro,cerca_casa,yes,no,2.0,1.0,no,no,no,yes,4.0,3.0,3.0,2.0,2.0,1.0,0.0,5.0,9.0,11.0,11.0
+Vigo,V,19.0,rural,>3,independizado,1.0,1.0,otro,servicios,otro,yes,no,2.0,1.0,no,no,no,no,4.0,3.0,2.0,1.0,3.0,5.0,1.0,0.0,5.0,8.0,0.0
+A Coruña,V,15.0,urbano,>3,con_nucleo_fam,3.0,4.0,servicios,otro,curso,si,si,1.0,2.0,no,si,si,no,5.0,4.0,4.0,1.0,1.0,1.0,0.0,0.0,16.0,16.0,16.0
+Vigo,V,17.0,urbano,>3,independizado,1.0,2.0,otro,otro,curso,no,yes,1.0,1.0,no,yes,yes,yes,5.0,3.0,5.0,5.0,5.0,1.0,1.0,12.0,6.0,7.0,7.0
+Vigo,M,17.0,rural,>3,independizado,2.0,1.0,en_casa,otro,curso,no,no,3.0,1.0,no,si,si,si,5.0,5.0,3.0,1.0,1.0,3.0,0.0,2.0,9.0,10.0,11.0
+A Coruña,M,15.0,urbano,<=3,independizado,1.0,1.0,en_casa,otro,otro,yes,yes,1.0,2.0,yes,no,no,no,4.0,3.0,2.0,2.0,3.0,3.0,0.0,6.0,12.0,13.0,12.0
+A Coruña,M,16.0,urbano,<=3,independizado,4.0,3.0,profesor,servicios,curso,si,si,3.0,2.0,no,si,si,no,5.0,4.0,3.0,1.0,2.0,1.0,0.0,2.0,16.0,15.0,16.0
+Vigo,M,16.0,rural,>3,independizado,2.0,2.0,otro,otro,curso,yes,yes,2.0,2.0,no,yes,yes,no,4.0,4.0,4.0,1.0,1.0,5.0,0.0,0.0,12.0,12.0,12.0
+Vigo,M,18.0,rural,>3,independizado,2.0,2.0,otro,otro,otro,0.0,1.0,2.0,1.0,0.0,0.0,0.0,1.0,5.0,5.0,5.0,1.0,1.0,3.0,1.0,0.0,8.0,6.0,0.0
+A Coruña,M,17.0,rural,<=3,independizado,4.0,4.0,servicios,otro,otro,yes,no,1.0,1.0,no,yes,no,no,5.0,2.0,1.0,1.0,2.0,3.0,0.0,6.0,12.0,11.0,11.0
+A Coruña,M,16.0,urbano,>3,independizado,4.0,4.0,salud,otro,cerca_casa,yes,yes,1.0,1.0,no,yes,no,no,4.0,4.0,4.0,1.0,2.0,2.0,0.0,6.0,17.0,17.0,17.0
+Vigo,M,18.0,rural,<=3,con_nucleo_fam,3.0,2.0,otro,otro,curso,no,no,2.0,3.0,no,yes,no,yes,3.0,3.0,2.0,1.0,1.0,2.0,2.0,6.0,7.0,9.0,10.0
+A Coruña,V,18.0,urbano,<=3,independizado,4.0,4.0,otro,otro,reputacion_centro,yes,yes,1.0,1.0,no,yes,no,no,4.0,2.0,5.0,3.0,4.0,5.0,0.0,2.0,8.0,9.0,11.0
+A Coruña,V,15.0,urbano,<=3,independizado,4.0,4.0,profesor,otro,cerca_casa,yes,yes,1.0,1.0,no,yes,no,yes,5.0,4.0,3.0,2.0,4.0,5.0,0.0,8.0,10.0,11.0,11.0
+Vigo,M,17.0,rural,>3,independizado,2.0,2.0,en_casa,otro,otro,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,5.0,1.0,3.0,1.0,2.0,5.0,0.0,5.0,9.0,9.0,9.0
+Vigo,M,16.0,rural,<=3,independizado,2.0,2.0,otro,servicios,curso,yes,no,1.0,2.0,no,no,yes,yes,5.0,4.0,3.0,1.0,1.0,1.0,0.0,0.0,11.0,13.0,12.0
+Vigo,V,17.0,urbano,<=3,con_nucleo_fam,1.0,0.0,otro,otro,cerca_casa,True,False,1.0,1.0,False,False,False,True,4.0,1.0,2.0,1.0,1.0,5.0,0.0,4.0,11.0,11.0,12.0
+Vigo,M,16.0,urbano,>3,independizado,2.0,1.0,otro,servicios,curso,yes,yes,1.0,2.0,no,yes,yes,no,5.0,3.0,3.0,1.0,1.0,1.0,0.0,0.0,14.0,13.0,14.0
+A Coruña,M,16.0,urbano,>3,con_nucleo_fam,2.0,2.0,otro,otro,reputacion_centro,yes,yes,1.0,2.0,yes,yes,no,no,3.0,3.0,4.0,1.0,1.0,4.0,0.0,0.0,13.0,13.0,13.0
+A Coruña,V,15.0,urbano,<=3,independizado,3.0,3.0,otro,otro,curso,1.0,1.0,1.0,2.0,0.0,0.0,1.0,0.0,5.0,3.0,2.0,1.0,1.0,2.0,0.0,0.0,13.0,12.0,12.0
+Vigo,M,15.0,rural,<=3,independizado,2.0,1.0,en_casa,otro,cerca_casa,no,no,2.0,1.0,no,no,no,no,1.0,3.0,4.0,1.0,1.0,1.0,0.0,0.0,6.0,8.0,9.0
+A Coruña,M,16.0,urbano,<=3,independizado,2.0,2.0,en_casa,otro,curso,yes,no,1.0,2.0,no,yes,no,no,4.0,3.0,4.0,1.0,2.0,2.0,0.0,6.0,13.0,11.0,11.0
+A Coruña,M,17.0,urbano,<=3,independizado,0.0,2.0,en_casa,en_casa,cerca_casa,yes,yes,2.0,3.0,no,no,no,no,3.0,3.0,3.0,2.0,3.0,2.0,0.0,0.0,14.0,14.0,15.0
+A Coruña,V,18.0,urbano,<=3,con_nucleo_fam,4.0,4.0,profesor,profesor,reputacion_centro,yes,yes,1.0,2.0,no,yes,yes,no,5.0,4.0,3.0,1.0,1.0,2.0,0.0,0.0,17.0,17.0,17.0
+Vigo,M,18.0,urbano,>3,independizado,2.0,2.0,otro,otro,curso,yes,yes,2.0,2.0,no,yes,no,yes,1.0,3.0,1.0,1.0,1.0,2.0,0.0,4.0,8.0,8.0,10.0
+A Coruña,M,18.0,urbano,>3,independizado,3.0,2.0,en_casa,otro,reputacion_centro,yes,yes,1.0,3.0,no,yes,no,yes,4.0,3.0,4.0,1.0,2.0,2.0,0.0,5.0,14.0,17.0,17.0
+A Coruña,M,17.0,urbano,>3,independizado,3.0,3.0,en_casa,otro,curso,yes,yes,1.0,1.0,no,yes,yes,no,4.0,2.0,5.0,2.0,5.0,5.0,0.0,2.0,11.0,12.0,11.0
+A Coruña,M,19.0,urbano,>3,independizado,0.0,1.0,en_casa,otro,curso,no,no,1.0,2.0,no,yes,no,no,3.0,4.0,2.0,1.0,1.0,5.0,2.0,0.0,9.0,10.0,11.0
+A Coruña,M,16.0,urbano,>3,independizado,2.0,1.0,otro,otro,cerca_casa,yes,yes,1.0,1.0,no,no,no,yes,4.0,5.0,2.0,1.0,1.0,5.0,0.0,4.0,9.0,10.0,10.0
+A Coruña,V,18.0,urbano,<=3,independizado,4.0,4.0,profesor,profesor,cerca_casa,yes,yes,1.0,1.0,no,yes,no,yes,1.0,4.0,2.0,2.0,2.0,1.0,0.0,0.0,18.0,18.0,17.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,2.0,en_casa,en_casa,curso,yes,yes,1.0,3.0,no,yes,yes,no,4.0,3.0,3.0,1.0,1.0,4.0,0.0,0.0,12.0,12.0,13.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,2.0,servicios,otro,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,no,4.0,4.0,4.0,2.0,4.0,5.0,0.0,10.0,12.0,11.0,11.0
+A Coruña,V,16.0,urbano,>3,independizado,2.0,3.0,otro,otro,cerca_casa,si,si,2.0,1.0,no,no,no,no,5.0,3.0,3.0,1.0,1.0,3.0,0.0,0.0,13.0,12.0,12.0
+A Coruña,V,17.0,urbano,>3,independizado,2.0,2.0,otro,otro,cerca_casa,no,yes,2.0,1.0,no,no,no,no,4.0,4.0,4.0,2.0,3.0,4.0,0.0,8.0,8.0,8.0,9.0
+Vigo,V,18.0,rural,>3,independizado,1.0,0.0,en_casa,en_casa,curso,si,no,3.0,1.0,si,si,no,no,4.0,3.0,2.0,1.0,1.0,4.0,1.0,0.0,12.0,12.0,13.0
+Vigo,M,18.0,rural,>3,independizado,2.0,2.0,en_casa,otro,otro,yes,no,2.0,3.0,no,no,no,no,5.0,3.0,3.0,1.0,3.0,4.0,0.0,0.0,14.0,17.0,15.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,4.0,servicios,servicios,reputacion_centro,True,False,1.0,2.0,False,True,True,False,5.0,4.0,2.0,2.0,3.0,5.0,0.0,0.0,17.0,18.0,17.0
+Vigo,M,15.0,rural,>3,independizado,3.0,3.0,otro,servicios,curso,yes,yes,2.0,1.0,no,no,no,no,4.0,1.0,3.0,1.0,1.0,4.0,0.0,0.0,14.0,16.0,16.0
+A Coruña,M,17.0,urbano,>3,independizado,1.0,1.0,en_casa,otro,reputacion_centro,yes,no,1.0,3.0,no,yes,yes,yes,4.0,3.0,4.0,1.0,1.0,5.0,0.0,12.0,12.0,12.0,12.0
+Vigo,M,18.0,rural,<=3,con_nucleo_fam,4.0,2.0,profesor,otro,reputacion_centro,yes,yes,1.0,2.0,no,no,yes,yes,5.0,3.0,1.0,1.0,1.0,5.0,0.0,0.0,5.0,0.0,0.0
+A Coruña,M,15.0,rural,>3,independizado,1.0,1.0,en_casa,otro,cerca_casa,yes,yes,2.0,4.0,yes,yes,yes,no,3.0,1.0,2.0,1.0,1.0,1.0,0.0,4.0,13.0,13.0,13.0
+A Coruña,M,17.0,urbano,>3,independizado,2.0,2.0,servicios,servicios,reputacion_centro,yes,yes,1.0,2.0,no,yes,yes,no,4.0,3.0,4.0,1.0,3.0,4.0,0.0,0.0,13.0,17.0,17.0
+A Coruña,V,18.0,urbano,<=3,independizado,2.0,2.0,servicios,servicios,reputacion_centro,no,yes,1.0,2.0,no,yes,yes,no,4.0,4.0,4.0,1.0,3.0,3.0,0.0,11.0,9.0,11.0,12.0
+Vigo,M,17.0,urbano,>3,independizado,4.0,1.0,salud,en_casa,curso,True,False,1.0,1.0,False,True,False,True,3.0,2.0,2.0,1.0,1.0,5.0,0.0,0.0,8.0,10.0,9.0
+A Coruña,V,16.0,urbano,<=3,independizado,1.0,1.0,otro,otro,cerca_casa,yes,yes,2.0,2.0,no,yes,no,no,3.0,4.0,2.0,1.0,1.0,5.0,0.0,2.0,9.0,9.0,9.0
+A Coruña,V,15.0,urbano,>3,independizado,2.0,2.0,servicios,servicios,curso,yes,yes,1.0,1.0,yes,yes,no,no,5.0,4.0,1.0,1.0,1.0,1.0,0.0,0.0,9.0,10.0,10.0
+A Coruña,V,15.0,urbano,<=3,independizado,4.0,2.0,profesor,otro,curso,yes,yes,1.0,1.0,no,no,no,no,3.0,5.0,2.0,1.0,1.0,3.0,0.0,10.0,18.0,17.0,18.0
+Vigo,M,18.0,urbano,>3,con_nucleo_fam,1.0,2.0,en_casa,otro,curso,True,False,2.0,2.0,False,True,False,False,4.0,3.0,3.0,1.0,1.0,5.0,2.0,2.0,6.0,8.0,8.0
+A Coruña,V,22.0,urbano,>3,independizado,3.0,1.0,servicios,servicios,otro,no,yes,1.0,1.0,no,no,no,yes,5.0,4.0,5.0,5.0,5.0,1.0,3.0,12.0,7.0,8.0,5.0
+A Coruña,M,18.0,urbano,>3,independizado,4.0,3.0,otro,otro,curso,True,True,1.0,3.0,False,True,True,True,4.0,3.0,4.0,1.0,1.0,5.0,0.0,2.0,14.0,15.0,17.0
+A Coruña,M,17.0,urbano,>3,con_nucleo_fam,3.0,3.0,salud,otro,reputacion_centro,yes,yes,1.0,2.0,no,yes,no,yes,3.0,3.0,3.0,1.0,3.0,3.0,0.0,10.0,12.0,13.0,14.0
+A Coruña,M,17.0,urbano,>3,con_nucleo_fam,2.0,1.0,otro,otro,curso,yes,yes,2.0,3.0,no,no,yes,yes,3.0,2.0,3.0,1.0,2.0,3.0,0.0,0.0,15.0,15.0,16.0
+A Coruña,V,17.0,urbano,<=3,independizado,2.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,yes,yes,4.0,4.0,2.0,5.0,5.0,4.0,0.0,0.0,16.0,16.0,16.0
+A Coruña,V,16.0,urbano,<=3,independizado,1.0,1.0,servicios,otro,curso,yes,no,1.0,2.0,no,no,no,yes,4.0,4.0,4.0,1.0,3.0,5.0,2.0,0.0,10.0,10.0,10.0
+A Coruña,V,15.0,urbano,<=3,independizado,1.0,2.0,otro,otro,curso,1.0,0.0,2.0,1.0,0.0,0.0,1.0,0.0,4.0,4.0,4.0,2.0,4.0,5.0,0.0,2.0,8.0,9.0,10.0
+A Coruña,M,17.0,rural,>3,independizado,2.0,1.0,en_casa,servicios,curso,yes,no,3.0,2.0,no,no,yes,no,2.0,1.0,1.0,1.0,1.0,3.0,0.0,2.0,13.0,13.0,13.0
+A Coruña,M,17.0,rural,>3,independizado,3.0,4.0,en_casa,servicios,curso,yes,yes,1.0,3.0,no,yes,yes,no,4.0,3.0,4.0,2.0,5.0,5.0,0.0,2.0,15.0,15.0,17.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,cerca_casa,yes,yes,1.0,2.0,no,yes,yes,yes,4.0,4.0,5.0,5.0,5.0,5.0,0.0,4.0,12.0,11.0,12.0
+A Coruña,V,16.0,urbano,>3,independizado,4.0,4.0,profesor,profesor,curso,yes,yes,1.0,2.0,no,yes,yes,no,5.0,4.0,4.0,1.0,2.0,5.0,0.0,6.0,16.0,14.0,14.0
+Vigo,M,16.0,urbano,>3,independizado,4.0,4.0,salud,salud,curso,yes,yes,1.0,2.0,no,yes,no,yes,4.0,3.0,4.0,1.0,2.0,3.0,0.0,4.0,8.0,8.0,8.0
+A Coruña,M,19.0,urbano,>3,independizado,2.0,2.0,servicios,servicios,cerca_casa,yes,yes,1.0,2.0,no,yes,no,no,4.0,3.0,3.0,1.0,1.0,5.0,0.0,0.0,10.0,10.0,11.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,2.0,otro,otro,curso,True,True,1.0,1.0,False,True,True,True,4.0,3.0,5.0,2.0,4.0,5.0,0.0,2.0,10.0,10.0,10.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,4.0,otro,profesor,reputacion_centro,yes,no,2.0,2.0,no,yes,yes,no,4.0,4.0,3.0,1.0,1.0,2.0,0.0,4.0,16.0,15.0,16.0
+A Coruña,M,15.0,urbano,>3,independizado,1.0,2.0,en_casa,servicios,curso,yes,yes,1.0,2.0,no,no,no,no,3.0,2.0,3.0,1.0,2.0,1.0,0.0,0.0,14.0,14.0,14.0
+Vigo,V,15.0,rural,>3,independizado,1.0,2.0,otro,servicios,curso,yes,no,3.0,2.0,no,yes,yes,no,5.0,5.0,5.0,1.0,3.0,5.0,0.0,11.0,9.0,11.0,10.0
+Vigo,M,18.0,urbano,<=3,independizado,1.0,1.0,otro,en_casa,reputacion_centro,yes,no,2.0,2.0,yes,no,no,no,2.0,3.0,5.0,1.0,4.0,3.0,0.0,8.0,9.0,8.0,10.0
+Vigo,M,16.0,urbano,>3,independizado,3.0,3.0,otro,otro,reputacion_centro,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,4.0,5.0,4.0,1.0,1.0,4.0,0.0,0.0,14.0,13.0,13.0
+Vigo,V,18.0,rural,>3,independizado,3.0,2.0,servicios,otro,curso,False,True,1.0,1.0,False,False,False,False,2.0,3.0,1.0,2.0,2.0,5.0,1.0,0.0,4.0,0.0,0.0
+Vigo,V,17.0,urbano,>3,independizado,3.0,4.0,servicios,otro,otro,yes,yes,1.0,2.0,no,yes,yes,yes,5.0,4.0,4.0,3.0,4.0,5.0,1.0,8.0,8.0,9.0,8.0
+Vigo,M,17.0,rural,>3,independizado,2.0,2.0,otro,otro,reputacion_centro,yes,no,2.0,2.0,no,yes,yes,no,5.0,3.0,2.0,1.0,1.0,1.0,0.0,0.0,15.0,17.0,17.0
+A Coruña,V,17.0,urbano,>3,independizado,3.0,3.0,salud,otro,cerca_casa,yes,yes,1.0,1.0,no,yes,no,no,4.0,4.0,3.0,1.0,3.0,5.0,0.0,0.0,14.0,15.0,15.0
+A Coruña,V,17.0,rural,>3,independizado,2.0,2.0,otro,otro,curso,True,True,2.0,2.0,False,True,True,False,4.0,5.0,2.0,1.0,1.0,1.0,0.0,0.0,12.0,13.0,13.0
+A Coruña,M,15.0,urbano,>3,independizado,4.0,4.0,servicios,en_casa,curso,yes,yes,1.0,3.0,no,yes,yes,yes,4.0,3.0,3.0,1.0,1.0,5.0,0.0,4.0,13.0,14.0,15.0
+Vigo,M,16.0,rural,<=3,independizado,3.0,4.0,en_casa,otro,otro,yes,no,3.0,2.0,no,yes,no,no,4.0,2.0,1.0,1.0,1.0,2.0,0.0,2.0,7.0,9.0,8.0
+Vigo,M,15.0,rural,<=3,independizado,2.0,2.0,otro,otro,otro,yes,no,1.0,3.0,yes,yes,no,no,4.0,4.0,3.0,2.0,2.0,5.0,0.0,2.0,14.0,11.0,12.0
+Vigo,M,18.0,urbano,>3,independizado,2.0,2.0,servicios,en_casa,reputacion_centro,yes,yes,2.0,2.0,no,no,yes,no,4.0,3.0,5.0,1.0,1.0,1.0,0.0,2.0,12.0,13.0,14.0
+Vigo,M,15.0,rural,>3,independizado,1.0,1.0,en_casa,servicios,otro,yes,no,1.0,1.0,no,yes,no,yes,4.0,1.0,3.0,1.0,1.0,2.0,1.0,6.0,10.0,10.0,10.0
+Vigo,V,18.0,rural,<=3,independizado,3.0,2.0,servicios,otro,curso,yes,yes,3.0,1.0,no,no,no,no,4.0,4.0,1.0,3.0,4.0,5.0,0.0,4.0,10.0,11.0,11.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,3.0,en_casa,otro,reputacion_centro,yes,yes,3.0,2.0,yes,yes,no,no,5.0,3.0,3.0,1.0,3.0,2.0,1.0,4.0,9.0,11.0,10.0
+A Coruña,V,16.0,urbano,>3,independizado,1.0,2.0,servicios,servicios,otro,yes,yes,1.0,1.0,no,yes,yes,yes,3.0,3.0,3.0,1.0,2.0,3.0,0.0,0.0,10.0,9.0,11.0
+Vigo,V,18.0,rural,>3,independizado,4.0,2.0,otro,otro,cerca_casa,yes,no,2.0,1.0,no,no,no,no,5.0,4.0,3.0,4.0,3.0,3.0,1.0,0.0,7.0,7.0,0.0
+Vigo,M,15.0,rural,<=3,independizado,1.0,1.0,otro,servicios,curso,yes,yes,2.0,1.0,no,yes,no,yes,4.0,4.0,3.0,1.0,2.0,2.0,1.0,4.0,6.0,7.0,8.0
+A Coruña,V,17.0,rural,>3,independizado,1.0,1.0,otro,otro,cerca_casa,yes,yes,2.0,3.0,no,no,no,yes,4.0,3.0,3.0,1.0,1.0,1.0,0.0,2.0,13.0,14.0,15.0
+A Coruña,M,17.0,urbano,<=3,independizado,2.0,1.0,otro,otro,cerca_casa,yes,yes,1.0,2.0,no,no,yes,no,4.0,2.0,3.0,2.0,2.0,2.0,0.0,2.0,11.0,12.0,14.0
+A Coruña,M,17.0,urbano,<=3,independizado,3.0,2.0,otro,otro,reputacion_centro,yes,yes,2.0,2.0,no,no,no,no,4.0,4.0,4.0,1.0,3.0,1.0,0.0,2.0,14.0,16.0,15.0
+Vigo,V,17.0,urbano,<=3,independizado,3.0,1.0,servicios,servicios,curso,yes,yes,2.0,1.0,no,no,no,no,2.0,4.0,5.0,3.0,4.0,2.0,0.0,6.0,10.0,10.0,10.0
+A Coruña,M,16.0,urbano,>3,independizado,3.0,1.0,servicios,otro,curso,yes,yes,1.0,4.0,yes,yes,no,no,4.0,3.0,3.0,1.0,2.0,5.0,0.0,0.0,10.0,9.0,10.0
+A Coruña,M,16.0,urbano,>3,con_nucleo_fam,4.0,1.0,otro,otro,cerca_casa,True,True,1.0,2.0,False,False,True,True,5.0,3.0,3.0,1.0,2.0,5.0,0.0,0.0,14.0,13.0,13.0
+Vigo,V,19.0,urbano,>3,independizado,3.0,2.0,en_casa,servicios,curso,yes,no,2.0,1.0,no,no,yes,no,3.0,2.0,1.0,1.0,1.0,3.0,3.0,4.0,6.0,11.0,9.0
+A Coruña,M,20.0,urbano,<=3,independizado,3.0,3.0,servicios,servicios,cerca_casa,yes,yes,1.0,4.0,no,yes,no,no,6.0,3.0,3.0,1.0,1.0,1.0,0.0,4.0,15.0,15.0,16.0
+Vigo,M,19.0,urbano,<=3,independizado,2.0,2.0,otro,otro,cerca_casa,True,True,1.0,3.0,False,False,False,True,5.0,4.0,5.0,1.0,1.0,1.0,0.0,0.0,12.0,13.0,13.0
+A Coruña,V,17.0,urbano,<=3,independizado,2.0,3.0,servicios,servicios,reputacion_centro,yes,yes,1.0,2.0,no,yes,no,no,5.0,3.0,3.0,1.0,3.0,3.0,0.0,0.0,10.0,11.0,11.0
+A Coruña,M,17.0,rural,>3,independizado,2.0,1.0,en_casa,servicios,reputacion_centro,si,si,2.0,2.0,no,si,si,no,4.0,2.0,5.0,1.0,2.0,5.0,0.0,0.0,11.0,10.0,11.0
+A Coruña,V,15.0,rural,>3,independizado,2.0,3.0,en_casa,servicios,curso,True,False,1.0,2.0,True,False,True,False,4.0,4.0,4.0,1.0,1.0,1.0,0.0,0.0,7.0,8.0,8.0
+A Coruña,V,17.0,urbano,<=3,independizado,4.0,3.0,salud,otro,curso,yes,yes,2.0,2.0,no,no,yes,yes,2.0,5.0,5.0,1.0,4.0,5.0,0.0,8.0,15.0,15.0,15.0
+A Coruña,M,16.0,urbano,<=3,independizado,3.0,1.0,otro,otro,cerca_casa,yes,no,1.0,2.0,yes,yes,no,no,3.0,3.0,3.0,2.0,3.0,2.0,0.0,0.0,12.0,13.0,12.0
+A Coruña,V,15.0,urbano,>3,independizado,4.0,4.0,servicios,profesor,curso,True,True,1.0,2.0,False,True,True,False,4.0,3.0,3.0,1.0,1.0,5.0,0.0,0.0,14.0,15.0,15.0
+A Coruña,M,17.0,urbano,>3,independizado,1.0,1.0,en_casa,otro,curso,yes,no,1.0,2.0,yes,no,no,yes,4.0,3.0,2.0,1.0,1.0,4.0,0.0,10.0,10.0,9.0,10.0
+A Coruña,V,16.0,urbano,>3,independizado,1.0,0.0,otro,otro,reputacion_centro,yes,yes,2.0,2.0,no,yes,yes,yes,4.0,3.0,2.0,1.0,1.0,3.0,0.0,0.0,16.0,17.0,18.0
+A Coruña,V,15.0,rural,>3,independizado,2.0,1.0,salud,servicios,reputacion_centro,yes,yes,1.0,2.0,no,no,yes,yes,5.0,4.0,2.0,1.0,1.0,5.0,0.0,4.0,10.0,9.0,10.0
+Vigo,M,17.0,urbano,>3,independizado,0.0,1.0,otro,en_casa,curso,yes,no,2.0,1.0,no,no,yes,no,2.0,4.0,4.0,3.0,5.0,5.0,0.0,5.0,9.0,9.0,10.0
+A Coruña,V,15.0,urbano,>3,independizado,3.0,4.0,servicios,servicios,cerca_casa,yes,yes,1.0,1.0,yes,no,no,no,5.0,5.0,5.0,3.0,2.0,5.0,0.0,2.0,9.0,9.0,9.0
+A Coruña,M,16.0,urbano,>3,independizado,2.0,1.0,otro,otro,curso,yes,no,1.0,2.0,no,yes,no,yes,4.0,3.0,5.0,1.0,1.0,5.0,0.0,0.0,13.0,12.0,12.0
+A Coruña,M,16.0,rural,>3,independizado,2.0,2.0,servicios,servicios,reputacion_centro,yes,yes,2.0,4.0,no,yes,yes,no,5.0,3.0,5.0,1.0,1.0,5.0,0.0,6.0,13.0,13.0,13.0
+A Coruña,M,18.0,urbano,>3,independizado,3.0,3.0,servicios,servicios,cerca_casa,yes,yes,1.0,2.0,no,no,yes,no,5.0,3.0,4.0,1.0,1.0,4.0,0.0,8.0,10.0,11.0,12.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,2.0,otro,servicios,reputacion_centro,no,yes,1.0,2.0,no,no,no,no,5.0,5.0,4.0,3.0,5.0,2.0,0.0,16.0,8.0,7.0,8.0
+Vigo,M,16.0,rural,>3,independizado,1.0,2.0,otro,otro,cerca_casa,yes,yes,1.0,3.0,yes,yes,no,yes,4.0,3.0,4.0,1.0,1.0,3.0,0.0,5.0,13.0,14.0,13.0
+A Coruña,M,16.0,urbano,>3,independizado,3.0,3.0,otro,otro,cerca_casa,yes,no,1.0,2.0,no,yes,no,no,4.0,3.0,2.0,1.0,2.0,5.0,0.0,0.0,11.0,13.0,13.0
+A Coruña,M,21.0,urbano,<=3,independizado,4.0,4.0,otro,otro,reputacion_centro,1.0,1.0,1.0,3.0,0.0,0.0,1.0,0.0,3.0,3.0,2.0,1.0,1.0,5.0,2.0,0.0,9.0,12.0,12.0
+Vigo,V,18.0,urbano,<=3,independizado,4.0,4.0,profesor,servicios,otro,True,True,2.0,3.0,False,False,False,True,4.0,2.0,2.0,2.0,2.0,5.0,0.0,0.0,15.0,16.0,16.0
+Vigo,M,16.0,rural,>3,independizado,4.0,4.0,salud,profesor,reputacion_centro,yes,yes,1.0,2.0,no,no,yes,yes,4.0,3.0,3.0,2.0,3.0,2.0,0.0,0.0,14.0,16.0,16.0
+Vigo,V,15.0,urbano,<=3,con_nucleo_fam,2.0,1.0,servicios,servicios,curso,yes,yes,1.0,1.0,no,no,yes,no,4.0,3.0,3.0,1.0,2.0,5.0,0.0,11.0,12.0,13.0,12.0
+A Coruña,V,16.0,urbano,>3,independizado,3.0,3.0,servicios,otro,cerca_casa,yes,yes,1.0,3.0,no,yes,yes,no,5.0,3.0,3.0,1.0,1.0,5.0,0.0,4.0,13.0,14.0,14.0
+A Coruña,M,16.0,urbano,>3,independizado,3.0,2.0,salud,servicios,cerca_casa,yes,yes,1.0,2.0,no,yes,no,no,3.0,3.0,2.0,1.0,1.0,3.0,1.0,2.0,12.0,12.0,12.0
+Vigo,V,18.0,urbano,>3,independizado,3.0,3.0,en_casa,en_casa,curso,no,yes,1.0,2.0,no,yes,yes,no,4.0,4.0,5.0,1.0,3.0,3.0,2.0,9.0,4.0,8.0,8.0
+Vigo,M,18.0,rural,>3,independizado,1.0,1.0,otro,otro,cerca_casa,yes,yes,4.0,3.0,no,no,no,no,4.0,3.0,2.0,1.0,2.0,4.0,0.0,4.0,10.0,11.0,12.0
+Vigo,M,17.0,urbano,>3,con_nucleo_fam,1.0,1.0,en_casa,en_casa,otro,yes,yes,1.0,2.0,no,no,yes,yes,4.0,5.0,5.0,1.0,2.0,3.0,0.0,2.0,11.0,10.0,11.0
+Vigo,M,19.0,urbano,>3,independizado,1.0,1.0,otro,otro,curso,yes,yes,2.0,2.0,no,yes,no,yes,1.0,1.0,4.0,4.0,1.0,1.0,1.0,12.0,7.0,8.0,9.0
+Vigo,M,16.0,rural,>3,independizado,4.0,4.0,profesor,profesor,curso,True,True,2.0,3.0,False,False,True,True,4.0,2.0,2.0,1.0,1.0,4.0,0.0,6.0,16.0,16.0,17.0
+A Coruña,V,18.0,rural,>3,independizado,2.0,3.0,otro,servicios,reputacion_centro,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,3.0,1.0,3.0,4.0,5.0,4.0,0.0,13.0,13.0,14.0,14.0
+A Coruña,M,17.0,urbano,<=3,con_nucleo_fam,2.0,1.0,otro,otro,curso,1.0,1.0,3.0,1.0,0.0,1.0,0.0,0.0,3.0,2.0,2.0,1.0,2.0,5.0,0.0,8.0,11.0,10.0,11.0
+A Coruña,V,18.0,urbano,>3,independizado,2.0,3.0,otro,otro,curso,yes,yes,2.0,3.0,no,yes,no,yes,3.0,2.0,3.0,2.0,2.0,1.0,0.0,4.0,14.0,13.0,14.0
+Vigo,M,17.0,urbano,>3,independizado,4.0,3.0,profesor,otro,otro,yes,yes,2.0,2.0,no,no,no,no,5.0,5.0,4.0,1.0,1.0,1.0,0.0,0.0,6.0,9.0,11.0
+A Coruña,V,17.0,rural,>3,independizado,3.0,4.0,en_casa,otro,curso,True,False,3.0,2.0,False,False,False,False,5.0,4.0,5.0,2.0,4.0,5.0,0.0,2.0,10.0,9.0,10.0
+A Coruña,M,18.0,urbano,>3,independizado,2.0,3.0,otro,servicios,reputacion_centro,si,si,1.0,4.0,no,si,si,si,4.0,5.0,5.0,1.0,3.0,2.0,0.0,10.0,16.0,16.0,16.0
